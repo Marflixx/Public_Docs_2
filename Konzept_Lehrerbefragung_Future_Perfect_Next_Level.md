@@ -12,11 +12,14 @@ Eine Erhebung der OST (Institut WERZ) zur BNE-Integration in der Aus- und Weiter
 
 Bevor die sechs bestehenden Future-Perfect-Kurse (Energie, Food Waste, Klimawandel, Kreislaufwirtschaft, Projektarbeit Kreislaufwirtschaft, Nachhaltigkeit) zu einem neuen, gestrafften Kurs zusammengeführt werden, soll eine strukturierte Befragung der ABU-Lehrpersonen den Co-Design-Prozess fundieren: Welche Inhalte sind wichtig, welche didaktischen Methoden funktionieren, wie sollen Lernziele geschärft werden, und was brauchen Lehrpersonen, um den neuen Kurs im Blended-Learning-Format erfolgreich einzusetzen?
 
+**Hinweis zur internen Nutzung dieses Dokuments:** Die Abschnitte 1–4, 6–8 und der Anhang richten sich an das Projektteam und dürfen auf die bestehenden Kurse Bezug nehmen. Abschnitt 5 enthält dagegen den eigentlichen Fragebogen — dieser ist bewusst so formuliert, dass er ohne Kenntnis der bestehenden Kurse beantwortet werden kann, da die Zielgruppe der Befragung diese in der Regel nicht kennt.
+
 ## 2. Ziele der Befragung
 
-- Identifizieren, welche Inhalte als zentral, redundant oder verzichtbar eingeschätzt werden.
-- Erfassen, welche didaktischen Methoden sich in der Praxis bewähren und wo Optimierungsbedarf besteht.
-- Klären, wie Lernziele auf die neuen ABU-2030-Handlungskompetenzen und die BNE-Gestaltungskompetenzen (Wissen, Bewerten, Handeln) ausgerichtet werden sollen.
+- Identifizieren, welche Inhalte der bestehenden Kurse als zentral, redundant oder verzichtbar eingeschätzt werden.
+- Erfassen, welche didaktischen Methoden sich für die Vermittlung eignen und wo Optimierungsbedarf besteht.
+- Klären, wie Lernziele auf die neuen ABU-2030-Handlungskompetenzen und die BNE-Gestaltungskompetenzen (Wissen, Bewerten, Handeln) ausgerichtet werden sollen und welche konkreten Kompetenzen gefördert werden sollen.
+- Die gewünschte zeitliche Gestaltung klären: Lektionenzahl sowie Anteile an selbstständiger Arbeit, Gruppenarbeit und lehrpersonenzentriertem Unterricht.
 - Bedürfnisse und Hürden bezüglich der Blended-Learning-Umsetzung (Moodle, Zeitaufwand, Geräte) erfassen.
 - Den Weiterbildungsbedarf für das begleitende Train-the-Trainer-Format klären (Inhalte vs. Technik, Format, Zeitpunkt).
 
@@ -36,7 +39,9 @@ Angestrebt wird eine möglichst breite Streuung über Kantone und Berufsfelder. 
 
 ## 5. Struktur und Fragenentwurf
 
-Der Fragebogen gliedert sich in sieben thematische Blöcke. Geschlossene Fragen verwenden, wo nicht anders vermerkt, eine 5-stufige Skala (1 = trifft gar nicht zu / sehr unwichtig, 5 = trifft voll zu / sehr wichtig).
+Der Fragebogen gliedert sich in acht thematische Blöcke. Geschlossene Fragen verwenden, wo nicht anders vermerkt, eine 5-stufige Skala (1 = trifft gar nicht zu / sehr unwichtig, 5 = trifft voll zu / sehr wichtig).
+
+*Wichtiges Gestaltungsprinzip: Die Zielgruppe der Befragung kennt die bestehenden Kurse in der Regel nicht. Alle Fragen sind deshalb so formuliert, dass sie ohne Vorkenntnisse der bisherigen Kurse beantwortet werden können — es wird nirgends auf einen „bisherigen Kurs" oder dessen Namen Bezug genommen. Inhalte, Methoden und Kompetenzen werden jeweils eigenständig und verständlich beschrieben.*
 
 ### Block A – Angaben zur Person und Schule
 
@@ -48,19 +53,17 @@ Der Fragebogen gliedert sich in sieben thematische Blöcke. Geschlossene Fragen 
 
 **F4.** Welche Rolle beschreibt Sie am besten? (ABU-Lehrperson / Fachgruppenleitung ABU / Moodle-Verantwortliche:r / andere)
 
-**F5.** Sind Ihnen einzelne der bestehenden Future-Perfect-Kurse (Energie, Food Waste, Klimawandel, Kreislaufwirtschaft, Projektarbeit Kreislaufwirtschaft, Nachhaltigkeit) bereits bekannt bzw. haben Sie diese im Unterricht eingesetzt? Falls nicht: Das ist kein Problem — die konkreten Inhalte werden im Folgenden einzeln vorgestellt, Sie müssen die Kurse dafür nicht kennen.
-
 ### Block B – Inhalte: Gewichtung und Priorisierung
 
-Da die bestehenden Kurse nicht allen Lehrpersonen bekannt sind, werden im Folgenden die konkreten Inhaltselemente losgelöst von der ursprünglichen Kursstruktur einzeln vorgestellt (Grundlage: Inhaltsanalyse der sechs Moodle-Kursexporte, siehe Anhang). Zu jedem Inhaltselement wird eine kurze, für sich verständliche Beschreibung gegeben. Die Lehrpersonen bewerten pro Element, wie wichtig es im neuen, zusammengeführten Kurs sein soll.
+Im Folgenden werden konkrete Themenbereiche und Inhaltselemente für den neuen Kurs vorgestellt. Zu jedem Inhaltselement finden Sie eine kurze, für sich verständliche Beschreibung. Bewerten Sie pro Element, wie wichtig es im neuen Kurs sein soll.
 
 *Skala für alle Inhaltselemente: 1 = verzichtbar · 2 = eher unwichtig · 3 = eher wichtig · 4 = wichtig · 5 = unverzichtbar. Zusätzliche Antwortoption je Element: „kann ich nicht beurteilen".*
 
-**F6.** Der neue Kurs kann nicht alle fünf Themenbereiche gleich vertieft behandeln. Wählen Sie die aus Ihrer Sicht drei wichtigsten Themenbereiche für den neuen ABU-Kurs (genau 3 von 5): Energie · Food Waste · Klimawandel · Kreislaufwirtschaft · Nachhaltigkeit.
+**F5.** Der neue Kurs kann nicht alle fünf Themenbereiche gleich vertieft behandeln. Wählen Sie die aus Ihrer Sicht drei wichtigsten Themenbereiche für den neuen ABU-Kurs (genau 3 von 5): Energie · Food Waste · Klimawandel · Kreislaufwirtschaft · Nachhaltigkeit.
 
-**F7.** Bewerten Sie für jedes der folgenden Inhaltselemente, wie wichtig es im neuen Kurs sein soll (Skala 1–5, siehe oben).
+**F6.** Bewerten Sie für jedes der folgenden Inhaltselemente, wie wichtig es im neuen Kurs sein soll (Skala 1–5, siehe oben).
 
-#### Themenbereich Energie (bisher 3–5 Lektionen)
+#### Themenbereich Energie
 
 | Inhaltselement | Kurzbeschreibung | Wichtigkeit |
 |---|---|---|
@@ -70,7 +73,7 @@ Da die bestehenden Kurse nicht allen Lehrpersonen bekannt sind, werden im Folgen
 | Erneuerbare vs. nicht-erneuerbare Energie | Unterschiede, Vor- und Nachteile beider Energiearten. | 1–5 |
 | Energie messen (Zusatzinhalt) | Physikalische Grundlagen der Energiemessung (Einheit Joule). | 1–5 |
 
-#### Themenbereich Food Waste (bisher 3–4 Lektionen)
+#### Themenbereich Food Waste
 
 | Inhaltselement | Kurzbeschreibung | Wichtigkeit |
 |---|---|---|
@@ -81,7 +84,7 @@ Da die bestehenden Kurse nicht allen Lehrpersonen bekannt sind, werden im Folgen
 | Vermeidung in der Gastronomie | Betriebliche und kundenorientierte Massnahmen für Gastrobetriebe. | 1–5 |
 | Politische Massnahmen (Zusatzinhalt) | Aktionsplan des Bundes zur Halbierung von Food Waste bis 2030. | 1–5 |
 
-#### Themenbereich Klimawandel (bisher 3–4 Lektionen)
+#### Themenbereich Klimawandel
 
 | Inhaltselement | Kurzbeschreibung | Wichtigkeit |
 |---|---|---|
@@ -90,7 +93,7 @@ Da die bestehenden Kurse nicht allen Lehrpersonen bekannt sind, werden im Folgen
 | Elektromobilität (Zusatzinhalt) | Mythen und Fakten zur Klimafreundlichkeit von Elektrofahrzeugen. | 1–5 |
 | Eigener CO2-Fussabdruck (Zusatzinhalt) | Berechnung und Einordnung des persönlichen CO2-Beitrags. | 1–5 |
 
-#### Themenbereich Kreislaufwirtschaft — Basis (bisher 3 Lektionen)
+#### Themenbereich Kreislaufwirtschaft — Basis
 
 | Inhaltselement | Kurzbeschreibung | Wichtigkeit |
 |---|---|---|
@@ -98,7 +101,7 @@ Da die bestehenden Kurse nicht allen Lehrpersonen bekannt sind, werden im Folgen
 | Kreislaufstrategien im Überblick | Strategien wie Teilen, Wiederverwenden, Reparieren, Recyceln. | 1–5 |
 | Anwendung auf ein Branchenprodukt | Übertragung einer Kreislaufstrategie auf ein konkretes Produkt der eigenen Branche. | 1–5 |
 
-#### Themenbereich Kreislaufwirtschaft — Vertiefung/Projektarbeit (bisher 7–8 Lektionen)
+#### Themenbereich Kreislaufwirtschaft — Vertiefung
 
 | Inhaltselement | Kurzbeschreibung | Wichtigkeit |
 |---|---|---|
@@ -106,7 +109,7 @@ Da die bestehenden Kurse nicht allen Lehrpersonen bekannt sind, werden im Folgen
 | Eigene Projektidee entwickeln | Brainstorming und Auswahl einer Kreislaufwirtschafts-Idee für den eigenen Ausbildungsbetrieb. | 1–5 |
 | Projektkonzept schreiben | Strukturierte Ausarbeitung von Nutzen und Hindernissen der eigenen Idee. | 1–5 |
 
-#### Themenbereich Nachhaltigkeit (bisher 3–4 Lektionen)
+#### Themenbereich Nachhaltigkeit
 
 | Inhaltselement | Kurzbeschreibung | Wichtigkeit |
 |---|---|---|
@@ -115,55 +118,75 @@ Da die bestehenden Kurse nicht allen Lehrpersonen bekannt sind, werden im Folgen
 | 17 Ziele für nachhaltige Entwicklung | Überblick über die globalen Nachhaltigkeitsziele (Agenda 2030 / SDGs). | 1–5 |
 | Nachhaltigkeit im eigenen Betrieb | Eigene Verbesserungsidee für den Ausbildungsbetrieb entwickeln. | 1–5 |
 
-**F8.** Sollen im neuen Kurs eher wenige Themenbereiche vertieft (ähnlich der bisherigen Projektarbeit Kreislaufwirtschaft, 7–8 Lektionen) oder mehrere Themenbereiche knapp behandelt werden (je 3–4 Lektionen)?
+**F7.** Sollen im neuen Kurs eher wenige Themenbereiche vertieft (z. B. 1–2 Themenbereiche mit je 7–8 Lektionen) oder mehrere Themenbereiche knapp behandelt werden (z. B. 4–5 Themenbereiche mit je 3–4 Lektionen)?
 
-**F9.** Fehlen aus Ihrer Sicht wichtige BNE-Inhalte, die oben nicht aufgeführt sind (z. B. Biodiversität, soziale Nachhaltigkeit, Klimagerechtigkeit, Nachhaltigkeit und Künstliche Intelligenz)? (Freitext)
+**F8.** Fehlen aus Ihrer Sicht wichtige BNE-Inhalte, die oben nicht aufgeführt sind (z. B. Biodiversität, soziale Nachhaltigkeit, Klimagerechtigkeit, Nachhaltigkeit und Künstliche Intelligenz)? (Freitext)
 
-**F10.** Die Themenbereiche „Kreislaufwirtschaft – Basis" und „Kreislaufwirtschaft – Vertiefung/Projektarbeit" überschneiden sich inhaltlich teilweise. Sollen diese zu einem einzigen Themenbereich zusammengelegt werden? (Ja / Nein / Teilweise, mit Freitext-Begründung)
+**F9.** Die Themenbereiche „Kreislaufwirtschaft – Basis" und „Kreislaufwirtschaft – Vertiefung" überschneiden sich inhaltlich teilweise. Sollen diese zu einem einzigen Themenbereich zusammengelegt werden? (Ja / Nein / Teilweise, mit Freitext-Begründung)
 
-**F11.** Wie viele Lektionen sollte der neue, zusammengeführte Kurs insgesamt realistisch umfassen?
+### Block C – Zeitliche Gestaltung und Unterrichtsformen
 
-### Block C – Didaktische Methoden
+Dieser Block klärt, wie der neue Kurs zeitlich aufgebaut sein und wie die Unterrichtszeit auf verschiedene Arbeitsformen verteilt werden soll.
 
-Bewertung der eingesetzten Methoden (Skala 1–5, „hat sich bewährt" bis „sollte überarbeitet werden"):
+**F10.** Wie viele Lektionen sollte der neue Kurs insgesamt umfassen?
 
-- Wechsel Einzelarbeit / Teamarbeit / Klassenunterricht
-- Mindmap zur Ergebnissicherung
-- Wiki- und Glossar-Einträge
+**F11.** Wie sollen sich die Lektionen des neuen Kurses zusammensetzen? Verteilen Sie 100 Prozentpunkte auf die folgenden drei Unterrichtsformen: (a) selbstständige Einzelarbeit ___%, (b) Gruppen-/Teamarbeit ___%, (c) lehrpersonenzentrierter Unterricht im Plenum/in der Klasse ___%.
+
+**F12.** Welcher dieser drei Anteile sollte im Vergleich zu einem klassischen ABU-Unterricht grösser bzw. kleiner sein, und warum? (Freitext)
+
+### Block D – Didaktische Methoden
+
+Für den neuen Kurs stehen unter anderem folgende didaktische Methoden zur Auswahl. Schätzen Sie ein, wie geeignet diese für Ihre Lernenden sind (Skala 1–5, 1 = wenig geeignet, 5 = sehr geeignet):
+
+- Wechsel zwischen Einzelarbeit, Teamarbeit und Klassenunterricht
+- Mindmap oder Wiki zur laufenden Ergebnissicherung
+- Glossar/Wörterbuch zu Fachbegriffen
 - Forumsdiskussion
 - Peer-Feedback
-- Kolumne / Stellungnahme verfassen
-- Poster und Präsentation
-- Video-Pitch als Abschlussprodukt
+- Eigene Meinungsäusserung in Textform (z. B. Kolumne, Stellungnahme)
+- Poster und Kurzpräsentation
+- Kurzvideo/Pitch als Abschlussprodukt
 - Quiz zur Lernkontrolle
 
-**F12.** Welche Methoden fördern das Engagement Ihrer Lernenden am stärksten?
+**F13.** Welche dieser Methoden würden das Engagement Ihrer Lernenden voraussichtlich am stärksten fördern?
 
-**F13.** Welche Methoden sind für Sie als Lehrperson zu aufwendig in Vorbereitung, Betreuung oder Korrektur?
+**F14.** Welche dieser Methoden schätzen Sie für sich als Lehrperson als eher aufwendig ein (Vorbereitung, Betreuung oder Korrektur)?
 
-**F14.** Welche neuen Methoden oder Tools wünschen Sie sich (z. B. KI-gestützte Reflexion, Gamification-Elemente, strukturiertes Peer-Assessment)? (Freitext)
+**F15.** Welche weiteren Methoden oder Tools wünschen Sie sich (z. B. KI-gestützte Reflexion, Gamification-Elemente, strukturiertes Peer-Assessment)? (Freitext)
 
-### Block D – Lernziele und Kompetenzen
+### Block E – Kompetenzorientierung und Lernziele
 
-**F15.** Wie gut lassen sich die aktuellen Lernziele den neuen ABU-2030-Handlungskompetenzen zuordnen? (Skala 1–5)
+Der neue Kurs soll konsequent kompetenzorientiert aufgebaut sein: Lernziele beschreiben nicht nur Wissen, sondern was Lernende nach dem Kurs tatsächlich tun können. Die folgende Liste möglicher Kompetenzen orientiert sich an den drei BNE-Gestaltungskompetenzen Wissen, Bewerten und Handeln sowie an Formen von Lernaktivitäten, die sich für die Vermittlung von Nachhaltigkeitsthemen eignen (z. B. eine eigene Position schriftlich vertreten, eine Idee kreativ präsentieren, im Team eine Lösung erarbeiten).
 
-**F16.** Sind die drei BNE-Gestaltungskompetenzen — Wissen, Bewerten, Handeln — im Kurs für Sie erkennbar abgebildet? (Skala 1–5, je Kompetenz)
+**F16.** Welche der folgenden Kompetenzen sollen im neuen Kurs besonders gefördert werden? Bewerten Sie die Wichtigkeit jeder Kompetenz (Skala 1–5).
 
-**F17.** Sollen die Lernziele stärker output- bzw. kompetenzorientiert formuliert werden? (Ja / Nein / Freitext)
+| Kompetenz | Beschreibung | Wichtigkeit |
+|---|---|---|
+| Fachwissen zu Nachhaltigkeitsthemen (Wissen) | Grundbegriffe und Zusammenhänge zu Themen wie Energie, Klima, Kreislaufwirtschaft oder Ernährung verstehen und erklären können. | 1–5 |
+| Vernetztes/systemisches Denken (Wissen/Bewerten) | Zusammenhänge zwischen Umwelt, Wirtschaft und Gesellschaft erkennen und einordnen. | 1–5 |
+| Kritische Reflexion und Bewertung (Bewerten) | Zu einer Nachhaltigkeitsfrage eine eigene, begründete Position einnehmen und schriftlich vertreten. | 1–5 |
+| Handlungs- und Transferkompetenz (Handeln) | Gelerntes auf den eigenen Ausbildungsbetrieb übertragen und konkrete Verbesserungsideen entwickeln. | 1–5 |
+| Kreativität und Ideenentwicklung (Handeln) | Eigene Lösungsideen entwickeln und ansprechend präsentieren (z. B. als Poster oder Kurzvideo). | 1–5 |
+| Kommunikations- und Präsentationsfähigkeit | Inhalte adressatengerecht mündlich oder schriftlich vermitteln. | 1–5 |
+| Teamfähigkeit und Zusammenarbeit | Im Team eine gemeinsame Lösung erarbeiten und gemeinsam vertreten. | 1–5 |
+| Selbstreflexionsfähigkeit | Eigene Lernfortschritte und Vorannahmen reflektieren. | 1–5 |
+| Digitale Kompetenz | Digitale Werkzeuge zielgerichtet für Recherche, Zusammenarbeit und Präsentation einsetzen. | 1–5 |
 
-**F18.** Wie viel Raum für eine eigenständige Transferaufgabe zum eigenen Lehrbetrieb ist gewünscht? (mehr / gleich viel / weniger)
+**F17.** Sollen die Lernziele des neuen Kurses konsequent in der Form „Die Lernenden können …" formuliert werden (output-/kompetenzorientiert)? (Ja / Nein / Freitext)
 
-### Block E – Blended Learning und Moodle
+**F18.** Wie wichtig ist Ihnen eine Aufgabe, die einen direkten Transfer zum eigenen Lehrbetrieb herstellt (z. B. eine eigene Verbesserungsidee für den Betrieb)? (Skala 1–5)
+
+### Block F – Blended Learning und Moodle
 
 **F19.** Wie vertraut sind Sie im Umgang mit Moodle als Lehrperson? (Skala 1–5)
 
-**F20.** Welche technischen Hürden traten bisher auf (Mehrfachauswahl: Endgeräte der Lernenden, Internetzugang im Schulzimmer, Zeitaufwand für Einrichtung, fehlender Support, andere)?
+**F20.** Welche technischen Hürden erwarten Sie am ehesten (Mehrfachauswahl: Endgeräte der Lernenden, Internetzugang im Schulzimmer, Zeitaufwand für Einrichtung, fehlender Support, andere)?
 
 **F21.** Welche Aufteilung von Präsenz- und Online-Anteilen bevorzugen Sie für den neuen Kurs?
 
 **F22.** Wünschen Sie sich einen modularen Aufbau, bei dem einzelne Bausteine flexibel kombiniert werden können? (Ja / Nein / Freitext)
 
-### Block F – Weiterbildungsbedarf (Train-the-Trainer)
+### Block G – Weiterbildungsbedarf (Train-the-Trainer)
 
 **F23.** Woran haben Sie grösseren Weiterbildungsbedarf: BNE-Fachinhalte, technische Moodle-Kompetenzen, oder beides gleichermassen?
 
@@ -173,13 +196,11 @@ Bewertung der eingesetzten Methoden (Skala 1–5, „hat sich bewährt" bis „s
 
 **F26.** Wer sollte primär adressiert werden: einzelne Lehrpersonen, ganze ABU-Fachschaften, oder Moodle-Verantwortliche? (Mehrfachauswahl)
 
-### Block G – Offene Fragen
+### Block H – Offene Fragen
 
-**F27.** Was hat an den bisherigen Kursen aus Ihrer Sicht am besten funktioniert?
+**F27.** Was ist Ihnen für den Erfolg des neuen Kurses am wichtigsten? (Freitext)
 
-**F28.** Was würden Sie im neuen, zusammengeführten Kurs anders oder besser machen?
-
-**F29.** Weitere Anmerkungen oder Wünsche zum Projekt „Future Perfect Next Level"?
+**F28.** Weitere Anmerkungen oder Wünsche zum Projekt „Future Perfect Next Level"?
 
 ## 6. Ablauf und Zeitplan
 
@@ -205,7 +226,7 @@ Die Teilnahme erfolgt freiwillig und anonym. Es werden keine Angaben erhoben, di
 
 ## Anhang: Übersicht der bestehenden Future-Perfect-Kurse
 
-Grundlage: Analyse der sechs bereitgestellten Moodle-Kursexporte (Stand 30.07.2026).
+Grundlage: Analyse der sechs bereitgestellten Moodle-Kursexporte (Stand 30.07.2026). *Dieser Anhang ist internes Hintergrundmaterial für das Projektteam und ist nicht Teil des Fragebogens.*
 
 | Kurs | Umfang | Kernthemen | Eingesetzte Methoden/Aktivitäten |
 |---|---|---|---|
@@ -216,7 +237,7 @@ Grundlage: Analyse der sechs bereitgestellten Moodle-Kursexporte (Stand 30.07.20
 | Projektarbeit Kreislaufwirtschaft | 7–8 Lektionen | Vertiefung Kreislaufstrategien, eigene Projektidee für Ausbildungsbetrieb | Konzeptauftrag, Video-Pitch als Abschlussprodukt, 3 Aufträge (Assign) |
 | Nachhaltigkeit | 3–4 Lektionen | Konzept Nachhaltigkeit, planetare Grenzen, nachhaltige Entwicklung im Betrieb | Stellungnahme in zwei Teilen, Wiki, Glossar, Forum, 4 Quiz |
 
-*Auffällig: Alle sechs Kurse folgen einer ähnlichen didaktischen Grundstruktur (Einstieg in der Klasse → Einzel-/Teamarbeit zur Wissensvermittlung → Transferaufgabe zum eigenen Betrieb → gemeinsame Erkenntnissicherung), verfügen über einen separaten Dokumentenbereich für Lehrpersonen und nutzen wiederkehrend Wiki, Glossar und Quiz. Kreislaufwirtschaft und Projektarbeit Kreislaufwirtschaft weisen die grösste inhaltliche Überschneidung auf und sind die naheliegendsten Kandidaten für eine Zusammenlegung.*
+*Auffällig: Alle sechs Kurse folgen einer ähnlichen didaktischen Grundstruktur (Einstieg in der Klasse → Einzel-/Teamarbeit zur Wissensvermittlung → Transferaufgabe zum eigenen Betrieb → gemeinsame Erkenntnissicherung), verfügen über einen separaten Dokumentenbereich für Lehrpersonen und nutzen wiederkehrend Wiki, Glossar und Quiz. Kreislaufwirtschaft und Projektarbeit Kreislaufwirtschaft weisen die grösste inhaltliche Überschneidung auf und sind die naheliegendsten Kandidaten für eine Zusammenlegung. Die im Fragebogen (Block E) gelisteten Kompetenzen leiten sich aus den in diesen Kursen wiederkehrenden Aktivitätsformen ab (u. a. Mindmap/Wiki → systemisches Denken, Kolumne/Stellungnahme → kritische Reflexion und Kommunikation, Poster/Video-Pitch → Kreativität und Präsentation, Gruppenarbeiten → Teamfähigkeit, wiederkehrende Reflexionsabschnitte → Selbstreflexion, Blended-Learning-Format → digitale Kompetenz).*
 
 ## Quellen
 
