@@ -12,7 +12,7 @@ Eine Erhebung der OST (Institut WERZ) zur BNE-Integration in der Aus- und Weiter
 
 Bevor die sechs bestehenden Future-Perfect-Kurse (Energie, Food Waste, Klimawandel, Kreislaufwirtschaft, Projektarbeit Kreislaufwirtschaft, Nachhaltigkeit) zu einem neuen, gestrafften Kurs zusammengeführt werden, soll eine strukturierte Befragung der ABU-Lehrpersonen den Co-Design-Prozess fundieren: Welche Inhalte sind wichtig, welche didaktischen Methoden funktionieren, wie sollen Lernziele geschärft werden, und was brauchen Lehrpersonen, um den neuen Kurs im Blended-Learning-Format erfolgreich einzusetzen?
 
-**Hinweis zur internen Nutzung dieses Dokuments:** Die Abschnitte 1–4, 6–8 und der Anhang richten sich an das Projektteam und dürfen auf die bestehenden Kurse Bezug nehmen. Abschnitt 5 enthält dagegen den eigentlichen Fragebogen — dieser ist bewusst so formuliert, dass er ohne Kenntnis der bestehenden Kurse beantwortet werden kann, da die Zielgruppe der Befragung diese in der Regel nicht kennt.
+**Hinweis zur internen Nutzung dieses Dokuments:** Die Abschnitte 1–4, 6–8 und der Anhang richten sich an das Projektteam und dürfen auf die bestehenden Kurse Bezug nehmen. Abschnitt 5 enthält dagegen den eigentlichen Fragebogen — dieser ist bewusst so formuliert, dass er ohne Kenntnis der bestehenden Kurse beantwortet werden kann, da die Zielgruppe der Befragung diese in der Regel nicht kennt. **Abschnitt 9 dokumentiert den aktuellen Umsetzungsstand inkl. aller Anpassungen, die sich aus der praktischen Umsetzung im Tool ergeben haben — Abschnitt 5 zeigt weiterhin die ursprüngliche Konzeptversion.**
 
 ## 2. Ziele der Befragung
 
@@ -238,6 +238,65 @@ Grundlage: Analyse der sechs bereitgestellten Moodle-Kursexporte (Stand 30.07.20
 | Nachhaltigkeit | 3–4 Lektionen | Konzept Nachhaltigkeit, planetare Grenzen, nachhaltige Entwicklung im Betrieb | Stellungnahme in zwei Teilen, Wiki, Glossar, Forum, 4 Quiz |
 
 *Auffällig: Alle sechs Kurse folgen einer ähnlichen didaktischen Grundstruktur (Einstieg in der Klasse → Einzel-/Teamarbeit zur Wissensvermittlung → Transferaufgabe zum eigenen Betrieb → gemeinsame Erkenntnissicherung), verfügen über einen separaten Dokumentenbereich für Lehrpersonen und nutzen wiederkehrend Wiki, Glossar und Quiz. Kreislaufwirtschaft und Projektarbeit Kreislaufwirtschaft weisen die grösste inhaltliche Überschneidung auf und sind die naheliegendsten Kandidaten für eine Zusammenlegung. Die im Fragebogen (Block E) gelisteten Kompetenzen leiten sich aus den in diesen Kursen wiederkehrenden Aktivitätsformen ab (u. a. Mindmap/Wiki → systemisches Denken, Kolumne/Stellungnahme → kritische Reflexion und Kommunikation, Poster/Video-Pitch → Kreativität und Präsentation, Gruppenarbeiten → Teamfähigkeit, wiederkehrende Reflexionsabschnitte → Selbstreflexion, Blended-Learning-Format → digitale Kompetenz).*
+
+## 9. Umsetzungsstatus und Anpassungen gegenüber diesem Konzept (Stand: 31. Juli 2026)
+
+Die Befragung wurde direkt im bestehenden Projektmanagement-Tool von Eartheffect
+(`projects.eartheffect.org`) als eigenständiges Umfrage-Modul umgesetzt — nicht über
+eine externe Plattform wie IQES online, LimeSurvey oder MS Forms (Abschnitt 4).
+Nachfolgend die wichtigsten Anpassungen gegenüber dem ursprünglichen Konzept, die sich
+aus der praktischen Umsetzung und ersten Testdurchläufen ergeben haben.
+
+**Struktur:** Die acht thematischen Blöcke aus Abschnitt 5 wurden in 21 kürzere Kapitel
+aufgeteilt (maximal ca. 9 Fragen pro Bildschirmseite statt bis zu 30) — ein einzelnes,
+sehr langes Kapitel erwies sich im Test als unübersichtlich. Block B (Inhaltselemente)
+ist neu in ein Kapitel pro Themenbereich sowie ein separates Rückfragen-Kapitel
+gegliedert; Block D (Methoden) und Block E (Kompetenzen) sind je in ein
+Bewertungs-Kapitel und ein Rückfragen-Kapitel aufgeteilt.
+
+**Einführung:** Vier kurze, eigenständige Einführungskapitel gehen dem Fragebogen jetzt
+voran (im ursprünglichen Konzept nicht vorgesehen): „Future Perfect" (was der Verein
+macht), „Nachhaltigkeit und Kreislaufwirtschaft" (Begriffserklärung), „ABU 2030 und
+diese Befragung" (rechtliches Mandat/Zweck der Befragung) sowie „Ablauf der Befragung"
+(Dauer, Anonymität). Diese Kapitel enthalten keine Fragen, sondern nur erklärenden Text.
+
+**Inhaltselemente (Block B, F6):** Die Kurzbeschreibungen wurden von ganzen Sätzen auf
+knappe Stichworte gekürzt, um die Übersichtlichkeit bei 25 einzeln zu bewertenden
+Elementen zu verbessern (z. B. „Definition, Energieformen, Alltagsnutzen." statt eines
+vollständigen Satzes).
+
+**Zeitliche Gestaltung (Block C, F10/F11):** Lektionenzahl und die drei
+Prozentanteile-Fragen sind neu echte Zahlenfelder (nur numerische Eingabe möglich)
+statt generischer Freitextfelder.
+
+**Frage-Darstellung:** Jede Frage zeigt neu einen kurzen, farbig hervorgehobenen Titel
+sowie — falls vorhanden — einen längeren Beschreibungstext in normaler Schrift darunter,
+statt eines einzelnen, einheitlich formatierten Fliesstexts.
+
+**Visuelles Design:** Die öffentliche Ausfüll-Seite wurde optisch an future-perfect.ch
+angelehnt (Logo, Blau-/Gold-Farbschema). Das Umfrage-Modul unterstützt dabei mehrere
+frei anlegbare Designs (Logo + zwei Farben), die pro Umfrage ausgewählt werden können —
+nicht nur für dieses eine Projekt, sondern wiederverwendbar für künftige Befragungen mit
+anderem Erscheinungsbild.
+
+**Antwortoptionen bei Single-/Multiple-Choice:** Werden als horizontal umbrechende
+„Chips" dargestellt statt als vertikale Liste von Radiobuttons/Checkboxen — bei Fragen
+mit vielen Optionen (z. B. F1, 26 Kantone) deutlich kompakter.
+
+**Technischer Ablauf:** Die Befragung läuft ohne Login über einen öffentlichen Link
+(`projects.eartheffect.org/survey/…`), mit Fortschrittsanzeige („Kapitel X von Y") und
+automatischer Zwischenspeicherung nach jedem Kapitel (Wiederaufnahme bei Abbruch über
+denselben Link möglich). Der Versand an die in Abschnitt 3 genannten Kanäle erfolgt über
+das bestehende Kontakt-/Mailsystem des Tools.
+
+**Auswertung:** Ergänzend zur in diesem Konzept nicht spezifizierten Auswertungsmethode
+bietet das Tool eine eingebaute Auswertungsansicht (Balkendiagramme mit Prozentangaben
+je Antwortoption, Freitext-Antworten als Liste) sowie einen Rohdaten-Export als
+Excel-Datei (eine Zeile pro Person, eine Spalte pro Frage).
+
+**Aktueller Status:** Die Befragung ist als Entwurf angelegt und noch nicht aktiviert
+bzw. verschickt. Vor dem Versand empfiehlt sich weiterhin der in Abschnitt 4 vorgesehene
+Pretest mit 3–5 ABU-Lehrpersonen.
 
 ## Quellen
 
