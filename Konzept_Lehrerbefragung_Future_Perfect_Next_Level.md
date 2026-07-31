@@ -210,9 +210,9 @@ Der neue Kurs soll konsequent kompetenzorientiert aufgebaut sein: Lernziele besc
 
 **F28.** Weitere Anmerkungen oder Wünsche zum Projekt „Future Perfect Next Level"?
 
-**F28a.** *(neu ergänzt)* Möchten Sie den fertigen Kurs (oder einzelne Kursteile) vorab testen und uns Ihr Feedback dazu geben? (Ja / Nein)
+**F28a.** *(neu ergänzt, angepasst am 31.07.2026)* Möchten Sie den fertigen Kurs (oder einzelne Kursteile) vorab testen und uns Ihr Feedback dazu geben? (Ja / Nein) *Hinweis, direkt bei der Frage anzuzeigen: Wir kontaktieren Sie in diesem Fall über die zu Beginn der Befragung angegebene E-Mail-Adresse.*
 
-**F28b.** *(neu ergänzt, nur sichtbar falls F28a = „Ja")* Bitte hinterlassen Sie eine E-Mail-Adresse, unter der wir Sie für den Test kontaktieren dürfen. *Hinweis, direkt bei der Frage anzuzeigen: Diese Angabe ist freiwillig und wird getrennt von Ihren übrigen, anonymen Antworten gespeichert — sie hebt die Anonymität der restlichen Befragung nicht auf (siehe Abschnitt 8).*
+*(F28b entfällt: eine zusätzliche E-Mail-Abfrage am Schluss der Befragung wäre redundant, da die E-Mail-Adresse bereits zu Beginn der Befragung als Pflichtfeld erhoben wird — siehe Anpassung in Abschnitt 9.)*
 
 ## 6. Ablauf und Zeitplan
 
@@ -236,7 +236,7 @@ Der neue Kurs soll konsequent kompetenzorientiert aufgebaut sein: Lernziele besc
 
 Die Teilnahme erfolgt freiwillig und anonym. Es werden keine Angaben erhoben, die eine Zuordnung zu Einzelpersonen ermöglichen; Schul- und Kantonsangaben werden ausschliesslich aggregiert ausgewertet. Die Datenbearbeitung erfolgt gemäss den Vorgaben des Schweizerischen Datenschutzgesetzes (DSG); Rohdaten werden nach Abschluss der Auswertung gelöscht.
 
-**Ausnahme (F28a/F28b):** Wer sich freiwillig für einen Kurstest meldet und dafür eine E-Mail-Adresse hinterlässt, gibt damit ein identifizierendes Merkmal an. Diese Angabe muss technisch und organisatorisch getrennt von den übrigen Antworten gespeichert werden (kein gemeinsamer Datensatz), damit die Anonymität der eigentlichen Befragung erhalten bleibt. E-Mail-Adressen aus F28b werden ausschliesslich zur Kontaktaufnahme für den Kurstest verwendet und nach Abschluss des Tests gelöscht.
+**Wichtiger Hinweis (ergänzt 31.07.2026):** Die tatsächliche technische Umsetzung (siehe Abschnitt 9) erhebt auf der Start-Seite von **allen** Teilnehmenden verpflichtend eine E-Mail-Adresse, nicht nur von den in F28a Testbereitschaften bekundenden Personen. Damit ist die Befragung in der aktuellen Umsetzung streng genommen nicht anonym, sondern vertraulich: Jede Antwort ist über die hinterlegte E-Mail-Adresse einer Person zuordenbar, auch wenn diese Zuordnung nur intern und nicht in der Auswertung selbst sichtbar gemacht wird. Die ursprünglich vorgesehene separate Speicherung einer identifizierenden Angabe nur für F28b (siehe frühere Fassung dieses Dokuments) ist dadurch gegenstandslos geworden, da ohnehin bereits jede Antwort personenbezogen vorliegt. Vor dem Versand sollte entschieden werden, ob (a) diese Formulierung auf „vertraulich, nicht anonym" angepasst wird, oder (b) die E-Mail-Abfrage auf der Start-Seite optional gemacht wird, um echte Anonymität herzustellen.
 
 ## Anhang: Übersicht der bestehenden Future-Perfect-Kurse
 
@@ -306,7 +306,15 @@ das bestehende Kontakt-/Mailsystem des Tools.
 **Auswertung:** Ergänzend zur in diesem Konzept nicht spezifizierten Auswertungsmethode
 bietet das Tool eine eingebaute Auswertungsansicht (Balkendiagramme mit Prozentangaben
 je Antwortoption, Freitext-Antworten als Liste) sowie einen Rohdaten-Export als
-Excel-Datei (eine Zeile pro Person, eine Spalte pro Frage).
+Excel-Datei (eine Zeile pro Person, eine Spalte pro Frage). Ergänzt wurde ausserdem
+eine ausklappbare Teilnehmerliste (Name, E-Mail, Startzeitpunkt, Status) direkt auf
+der Auswertungsseite.
+
+**Anpassung 31.07.2026 (Block H):** Die ursprünglich in Abschnitt 10 vorgesehene F28b
+(E-Mail-Erfassung bei Testbereitschaft) wurde entfernt, da die E-Mail-Adresse bereits
+zu Beginn der Befragung als Pflichtfeld vorliegt — eine zweite Abfrage wäre redundant
+gewesen. F28a (Ja/Nein-Frage zur Testbereitschaft) bleibt bestehen, siehe Abschnitt 8
+für die dabei aufgeworfene grundsätzliche Frage zur Anonymität der Befragung.
 
 **Aktueller Status:** Die Befragung ist als Entwurf angelegt und noch nicht aktiviert
 bzw. verschickt. Vor dem Versand empfiehlt sich weiterhin der in Abschnitt 4 vorgesehene
@@ -324,16 +332,16 @@ Die oben dokumentierten Anpassungen sind grösstenteils sinnvoll (kürzere Kapit
 
 ## 10. Ergänzungen für die finale Fassung
 
-Dieser Abschnitt enthält zwei neue Fragen, die im Tool noch nachgetragen werden sollen, sowie deren exakte Platzierung. Sie sind bereits direkt im Fragebogen in Abschnitt 5 eingefügt (gekennzeichnet mit *„neu ergänzt"* und den Nummern F10a/F10b sowie F28a/F28b); dieser Abschnitt fasst sie zur einfacheren Übernahme ins Tool nochmals zusammen.
+Dieser Abschnitt enthält zwei neue Fragen, die im Tool noch nachgetragen werden sollen, sowie deren exakte Platzierung. Sie sind bereits direkt im Fragebogen in Abschnitt 5 eingefügt (gekennzeichnet mit *„neu ergänzt"* und den Nummern F10a/F10b sowie F28a); dieser Abschnitt fasst sie zur einfacheren Übernahme ins Tool nochmals zusammen.
 
 **Länge einer Kurseinheit (Block C, direkt nach F10):** Es fehlte bisher eine Frage dazu, wie der Kurs in einzelne Einheiten unterteilt werden soll — mehrere kurze, unabhängig bearbeitbare Einheiten oder ein bis zwei grosse, zusammenhängende Einheiten. F10a fragt dies als Single-Choice ab, F10b erfasst bei Bedarf die gewünschte Minutenzahl pro Einheit über ein bedingt eingeblendetes Zahlenfeld.
 
-**Testbereitschaft (Block H, nach F28):** Für das Projekt ist es wertvoll zu wissen, welche Lehrpersonen bereit wären, den fertigen Kurs vorab zu testen und Feedback zu geben. F28a fragt dies als Ja/Nein-Frage ab; F28b blendet sich nur bei „Ja" ein und erfasst eine E-Mail-Adresse für die Kontaktaufnahme. Da dies eine identifizierende Angabe ist, muss sie getrennt von den anonymen Antworten gespeichert werden (siehe die entsprechende Ausnahme-Regelung in Abschnitt 8).
+**Testbereitschaft (Block H, nach F28):** Für das Projekt ist es wertvoll zu wissen, welche Lehrpersonen bereit wären, den fertigen Kurs vorab zu testen und Feedback zu geben. F28a fragt dies als Ja/Nein-Frage ab. *(Anpassung 31.07.2026: Eine ursprünglich geplante zusätzliche F28b zur E-Mail-Erfassung entfällt — die E-Mail-Adresse liegt durch die Pflichtangabe auf der Start-Seite bereits vor und muss nicht erneut abgefragt werden; siehe Abschnitt 8 für die datenschutzrechtliche Einordnung dieser Pflichtangabe.)*
 
 **Für die Umsetzung im Tool zu beachten:**
-- F10a/F28a als Single-Choice/Ja-Nein mit bedingter Anzeige von F10b/F28b (Skip-Logik).
-- F28b-Kontaktdaten in einer separaten Tabelle/einem separaten Kapitel ohne Verknüpfung zur anonymen Antworten-ID speichern.
+- F10a als Single-Choice mit bedingter Anzeige von F10b (Skip-Logik).
 - Die unter 9.1 genannten Korrekturen (v. a. Validierung F11, Verständlichkeitsprüfung F6) vor der Aktivierung ebenfalls einarbeiten.
+- Die in Abschnitt 8 aufgeworfene Frage zur Anonymität (E-Mail-Pflichtfeld auf der Start-Seite) vor dem Versand klären.
 
 ## Quellen
 
