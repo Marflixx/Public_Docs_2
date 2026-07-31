@@ -12,7 +12,7 @@ Eine Erhebung der OST (Institut WERZ) zur BNE-Integration in der Aus- und Weiter
 
 Bevor die sechs bestehenden Future-Perfect-Kurse (Energie, Food Waste, Klimawandel, Kreislaufwirtschaft, Projektarbeit Kreislaufwirtschaft, Nachhaltigkeit) zu einem neuen, gestrafften Kurs zusammengeführt werden, soll eine strukturierte Befragung der ABU-Lehrpersonen den Co-Design-Prozess fundieren: Welche Inhalte sind wichtig, welche didaktischen Methoden funktionieren, wie sollen Lernziele geschärft werden, und was brauchen Lehrpersonen, um den neuen Kurs im Blended-Learning-Format erfolgreich einzusetzen?
 
-**Hinweis zur internen Nutzung dieses Dokuments:** Die Abschnitte 1–4, 6–8 und der Anhang richten sich an das Projektteam und dürfen auf die bestehenden Kurse Bezug nehmen. Abschnitt 5 enthält dagegen den eigentlichen Fragebogen — dieser ist bewusst so formuliert, dass er ohne Kenntnis der bestehenden Kurse beantwortet werden kann, da die Zielgruppe der Befragung diese in der Regel nicht kennt. **Abschnitt 9 dokumentiert den aktuellen Umsetzungsstand inkl. aller Anpassungen, die sich aus der praktischen Umsetzung im Tool ergeben haben — Abschnitt 5 zeigt weiterhin die ursprüngliche Konzeptversion.**
+**Hinweis zur internen Nutzung dieses Dokuments:** Die Abschnitte 1–4, 6–8 und der Anhang richten sich an das Projektteam und dürfen auf die bestehenden Kurse Bezug nehmen. Abschnitt 5 enthält dagegen den eigentlichen Fragebogen — dieser ist bewusst so formuliert, dass er ohne Kenntnis der bestehenden Kurse beantwortet werden kann, da die Zielgruppe der Befragung diese in der Regel nicht kennt. **Abschnitt 9 dokumentiert den aktuellen Umsetzungsstand inkl. aller Anpassungen, die sich aus der praktischen Umsetzung im Tool ergeben haben (inkl. einer kritischen Einschätzung in 9.1) — Abschnitt 5 zeigt weiterhin die ursprüngliche Konzeptversion. Abschnitt 10 enthält zwei neue, noch zu ergänzende Fragen samt exakter Formulierung und Platzierung, bereit zur Übernahme ins Tool.**
 
 ## 2. Ziele der Befragung
 
@@ -130,7 +130,15 @@ Dieser Block klärt, wie der neue Kurs zeitlich aufgebaut sein und wie die Unter
 
 **F10.** Wie viele Lektionen sollte der neue Kurs insgesamt umfassen?
 
-**F11.** Wie sollen sich die Lektionen des neuen Kurses zusammensetzen? Verteilen Sie 100 Prozentpunkte auf die folgenden drei Unterrichtsformen: (a) selbstständige Einzelarbeit ___%, (b) Gruppen-/Teamarbeit ___%, (c) lehrpersonenzentrierter Unterricht im Plenum/in der Klasse ___%.
+**F10a.** *(neu ergänzt)* Wie soll der Kurs in einzelne Einheiten aufgeteilt sein? *(Single Choice)*
+- Mehrere kleine Einheiten von wenigen Minuten (z. B. 10–20 Min.), die einzeln und unabhängig voneinander bearbeitbar sind
+- Einheiten im Umfang von je einer Lektion (ca. 45 Minuten)
+- Ein bis zwei grosse, in sich geschlossene Einheiten über mehrere Lektionen hinweg
+- Andere Aufteilung (Freitext)
+
+**F10b.** *(neu ergänzt, nur sichtbar falls bei F10a „mehrere kleine Einheiten" gewählt wurde)* Wie viele Minuten sollte eine einzelne Einheit ungefähr dauern? (Zahlenfeld, Minuten)
+
+**F11.** Wie sollen sich die Lektionen des neuen Kurses zusammensetzen? Verteilen Sie 100 Prozentpunkte auf die folgenden drei Unterrichtsformen: (a) selbstständige Einzelarbeit ___%, (b) Gruppen-/Teamarbeit ___%, (c) lehrpersonenzentrierter Unterricht im Plenum/in der Klasse ___%. *(Hinweis für die Umsetzung: Summe muss serverseitig auf 100 validiert werden, siehe 9.1)*
 
 **F12.** Welcher dieser drei Anteile sollte im Vergleich zu einem klassischen ABU-Unterricht grösser bzw. kleiner sein, und warum? (Freitext)
 
@@ -202,6 +210,10 @@ Der neue Kurs soll konsequent kompetenzorientiert aufgebaut sein: Lernziele besc
 
 **F28.** Weitere Anmerkungen oder Wünsche zum Projekt „Future Perfect Next Level"?
 
+**F28a.** *(neu ergänzt)* Möchten Sie den fertigen Kurs (oder einzelne Kursteile) vorab testen und uns Ihr Feedback dazu geben? (Ja / Nein)
+
+**F28b.** *(neu ergänzt, nur sichtbar falls F28a = „Ja")* Bitte hinterlassen Sie eine E-Mail-Adresse, unter der wir Sie für den Test kontaktieren dürfen. *Hinweis, direkt bei der Frage anzuzeigen: Diese Angabe ist freiwillig und wird getrennt von Ihren übrigen, anonymen Antworten gespeichert — sie hebt die Anonymität der restlichen Befragung nicht auf (siehe Abschnitt 8).*
+
 ## 6. Ablauf und Zeitplan
 
 | Phase | Inhalt | Zeitraum |
@@ -223,6 +235,8 @@ Der neue Kurs soll konsequent kompetenzorientiert aufgebaut sein: Lernziele besc
 ## 8. Datenschutz
 
 Die Teilnahme erfolgt freiwillig und anonym. Es werden keine Angaben erhoben, die eine Zuordnung zu Einzelpersonen ermöglichen; Schul- und Kantonsangaben werden ausschliesslich aggregiert ausgewertet. Die Datenbearbeitung erfolgt gemäss den Vorgaben des Schweizerischen Datenschutzgesetzes (DSG); Rohdaten werden nach Abschluss der Auswertung gelöscht.
+
+**Ausnahme (F28a/F28b):** Wer sich freiwillig für einen Kurstest meldet und dafür eine E-Mail-Adresse hinterlässt, gibt damit ein identifizierendes Merkmal an. Diese Angabe muss technisch und organisatorisch getrennt von den übrigen Antworten gespeichert werden (kein gemeinsamer Datensatz), damit die Anonymität der eigentlichen Befragung erhalten bleibt. E-Mail-Adressen aus F28b werden ausschliesslich zur Kontaktaufnahme für den Kurstest verwendet und nach Abschluss des Tests gelöscht.
 
 ## Anhang: Übersicht der bestehenden Future-Perfect-Kurse
 
@@ -297,6 +311,29 @@ Excel-Datei (eine Zeile pro Person, eine Spalte pro Frage).
 **Aktueller Status:** Die Befragung ist als Entwurf angelegt und noch nicht aktiviert
 bzw. verschickt. Vor dem Versand empfiehlt sich weiterhin der in Abschnitt 4 vorgesehene
 Pretest mit 3–5 ABU-Lehrpersonen.
+
+### 9.1 Kritische Sichtung des Umsetzungsstands
+
+Die oben dokumentierten Anpassungen sind grösstenteils sinnvoll (kürzere Kapitel, Zahlenfelder, Fortschrittsanzeige). Fünf Punkte sollten aber vor der Aktivierung noch geprüft bzw. behoben werden:
+
+- **Werkzeugwahl:** Die Umsetzung als Eigenbau-Umfragemodul im internen PM-Tool statt einer etablierten Umfrage-Plattform (LimeSurvey, IQES online, MS Forms) wiederholt das Risikomuster aus dem separaten Konzept „Eigene App vs. Moodle": Es ist nicht dokumentiert, ob das Modul die Grundanforderungen einer öffentlichen, anonymen Befragung tatsächlich erfüllt — insbesondere Barrierefreiheit (WCAG 2.1 AA / eCH-0059) und eine nDSG-konforme Anonymisierung (keine IP- oder Metadaten-Logs, die einzelne Antworten Personen zuordenbar machen). Empfehlung: Vor Aktivierung explizit prüfen und dokumentieren, statt stillschweigend vorauszusetzen.
+- **Fehlende Validierung bei F11:** Die drei Prozentwerte (selbstständig/Gruppenarbeit/LP-zentriert) müssen in Summe 100 ergeben. Bisher ist nur von „echten Zahlenfeldern" die Rede, nicht von einer Prüfung der Summe. Ohne serverseitige Validierung wird ein Teil der Antworten unbrauchbar oder muss nachträglich bereinigt werden. Empfehlung: Entweder eine Validierungsregel ergänzen (Fehlermeldung bei Summe ≠ 100), oder auf drei gekoppelte Schieberegler umstellen, bei denen der dritte Wert automatisch berechnet wird.
+- **Stichwort-Kürzung der Inhaltselemente (F6):** Ein zentrales Prinzip dieses Konzepts (Abschnitt 5) ist, dass alle Fragen ohne Kenntnis der bisherigen Kurse verständlich sein müssen. Die Kürzung der Kurzbeschreibungen auf blosse Stichworte («Definition, Energieformen, Alltagsnutzen.») kann dieses Prinzip unterlaufen, da Stichworte für Aussenstehende oft weniger selbsterklärend sind als ein vollständiger Satz. Empfehlung: Im Pretest gezielt nachfragen, ob die Stichworte für Personen ohne Vorwissen verständlich sind; im Zweifel knappe, aber vollständige Sätze verwenden statt Fragmente.
+- **Vier Einführungskapitel — Abbruchrisiko:** Zusätzliche Erklärkapitel vor dem eigentlichen Fragebogen erhöhen die wahrgenommene Gesamtlänge gerade zu Beginn, wo Abbruchraten typischerweise am höchsten sind. Empfehlung: Einführung auf das Nötigste kürzen (Zielwert: eine Bildschirmseite gesamt) oder klar als überspringbar kennzeichnen.
+- **Pretest steht noch aus:** Abschnitt 9 hält selbst fest, dass die Befragung noch nicht aktiviert ist. Der in Abschnitt 4 vorgesehene Pretest mit 3–5 Lehrpersonen ist die richtige nächste Massnahme — gerade weil die drei vorstehenden Punkte typische Dinge sind, die ein Pretest zuverlässig aufdeckt. Nicht ohne Pretest live schalten.
+
+## 10. Ergänzungen für die finale Fassung
+
+Dieser Abschnitt enthält zwei neue Fragen, die im Tool noch nachgetragen werden sollen, sowie deren exakte Platzierung. Sie sind bereits direkt im Fragebogen in Abschnitt 5 eingefügt (gekennzeichnet mit *„neu ergänzt"* und den Nummern F10a/F10b sowie F28a/F28b); dieser Abschnitt fasst sie zur einfacheren Übernahme ins Tool nochmals zusammen.
+
+**Länge einer Kurseinheit (Block C, direkt nach F10):** Es fehlte bisher eine Frage dazu, wie der Kurs in einzelne Einheiten unterteilt werden soll — mehrere kurze, unabhängig bearbeitbare Einheiten oder ein bis zwei grosse, zusammenhängende Einheiten. F10a fragt dies als Single-Choice ab, F10b erfasst bei Bedarf die gewünschte Minutenzahl pro Einheit über ein bedingt eingeblendetes Zahlenfeld.
+
+**Testbereitschaft (Block H, nach F28):** Für das Projekt ist es wertvoll zu wissen, welche Lehrpersonen bereit wären, den fertigen Kurs vorab zu testen und Feedback zu geben. F28a fragt dies als Ja/Nein-Frage ab; F28b blendet sich nur bei „Ja" ein und erfasst eine E-Mail-Adresse für die Kontaktaufnahme. Da dies eine identifizierende Angabe ist, muss sie getrennt von den anonymen Antworten gespeichert werden (siehe die entsprechende Ausnahme-Regelung in Abschnitt 8).
+
+**Für die Umsetzung im Tool zu beachten:**
+- F10a/F28a als Single-Choice/Ja-Nein mit bedingter Anzeige von F10b/F28b (Skip-Logik).
+- F28b-Kontaktdaten in einer separaten Tabelle/einem separaten Kapitel ohne Verknüpfung zur anonymen Antworten-ID speichern.
+- Die unter 9.1 genannten Korrekturen (v. a. Validierung F11, Verständlichkeitsprüfung F6) vor der Aktivierung ebenfalls einarbeiten.
 
 ## Quellen
 
