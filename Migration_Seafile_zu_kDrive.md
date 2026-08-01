@@ -21,7 +21,7 @@ Das betrifft voraussichtlich nur sehr wenige, falls überhaupt Dateien — am Wo
 ## 3. Ab Montagmorgen: Umstieg auf kDrive
 
 1. **Seafile-Desktop-Client deinstallieren oder Ordner-Verknüpfung entfernen.** Die Konten sind ohnehin bereits getrennt.
-2. **kDrive-Desktop-App installieren:** [Download-Link kDrive](https://www.infomaniak.com/en/apps/download-kdrive), mit eurem Infomaniak-Konto anmelden.
+2. **kDrive-Desktop-App installieren:** [Download-Link kDrive](https://www.infomaniak.com/en/apps/download-kdrive), mit eurem Infomaniak-Konto anmelden. Login: eure Infomaniak-E-Mail-Adresse + dasselbe Kontopasswort, mit dem ihr euch auch bei eurer Infomaniak-Webmail/im Manager anmeldet — es braucht kein separates kDrive-Passwort. (Falls ihr in eurem E-Mail-Programm ein eigenes IMAP/SMTP-Passwort eingerichtet habt: das gilt nur dort, nicht für kDrive.)
 3. **Lite Sync aktivieren (Windows/macOS):** Dateien werden lokal nur als Platzhalter angezeigt und erst beim Öffnen heruntergeladen — spart Speicherplatz, da ihr nicht mehr die komplette Ablage lokal vorhalten müsst.
 4. Ordner **"Common documents"** zur Synchronisation auswählen.
 5. **Falls ihr in Schritt 2 Dateien mit Änderungsdatum ab Sa. 19:00 Uhr gefunden habt:** diese jetzt manuell aus dem alten lokalen Seafile-Ordner in den entsprechenden Unterordner von "Common documents" in kDrive kopieren.
