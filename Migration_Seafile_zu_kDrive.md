@@ -25,7 +25,7 @@ Das betrifft voraussichtlich nur sehr wenige, falls überhaupt Dateien — am Wo
 3. **Lite Sync aktivieren (Windows/macOS):** Dateien werden lokal nur als Platzhalter angezeigt und erst beim Öffnen heruntergeladen — spart Speicherplatz, da ihr nicht mehr die komplette Ablage lokal vorhalten müsst.
 4. Ordner **"Common documents"** zur Synchronisation auswählen.
 5. **Falls ihr in Schritt 2 Dateien mit Änderungsdatum ab Sa. 19:00 Uhr gefunden habt:** diese jetzt manuell aus dem alten lokalen Seafile-Ordner in den entsprechenden Unterordner von "Common documents" in kDrive kopieren.
-6. Erst danach den alten lokalen Seafile-Ordner löschen.
+6. **Erst danach den alten lokalen Seafile-Ordner vollständig löschen — und anschliessend zwingend den Papierkorb leeren.** Solange der Papierkorb nicht geleert ist, belegen die gelöschten Dateien weiterhin Speicherplatz. Nur mit geleertem Papierkorb wird der Speicherplatz tatsächlich wieder frei.
 
 ## 4. Bei Problemen
 
