@@ -3,21 +3,28 @@
 Konsolidierte Ergebnisse aus 4 Research-Durchgängen für die 178 EVU-Firmen ohne
 personalisierten CRM-Kontakt (Stand Recherche: 4. August 2026).
 
-**Status:** Teil 1/4, Nachtrag A/B, Teil 3/4 vorliegend · Teil 2/4, Teil 4/4 ausstehend
+**Status:** Teil 1/4, Nachtrag A/B, Teil 3/4, Teil 4/4 vorliegend · Teil 2/4 ausstehend (nur Aggregatzahlen bekannt, Detailtabelle fehlt noch)
 
 ---
 
-## Zusammenfassung (wird nach jedem Teil aktualisiert)
+## Zusammenfassung
 
 | Teil | Firmen | Bestätigt | Vermutet (Muster) | Nicht gefunden |
 |------|--------|-----------|--------------------|-----------------|
-| 1/4  | 45     | 6         | 4                  | 35              |
-| Nachtrag A/B | 17 (Klärung + Vertiefung) | +4 (davon 1 vermutet) | — | 13 |
-| 2/4  | –      | –         | –                  | –               |
+| 1/4  | 45     | 7         | 4                  | 34              |
+| 2/4  | 45     | 3         | 4                  | 38              |
 | 3/4  | 45     | 2         | 1                  | 42              |
-| 4/4  | –      | –         | –                  | –               |
+| 4/4  | 43     | 3         | 1                  | 39              |
+| **Total (Rohzahlen aus den 4 Teilen)** | **178** | **15** | **10** | **153** |
+| + Nachtrag A/B (Klärungen/Vertiefung, siehe unten) | +1 (EWK-Aufsplittung) | +3 | +1 | −3 |
+| **Gesamt nach Nachtrag** | **179** | **18** | **11** | **150** |
 
-**Laufender Gesamtstand:** 12 bestätigt, 6 vermutet (Muster), von 91 bisher bearbeiteten Firmen (Teil 1 + Nachtrag + Teil 3, Doppelnennungen aus dem Nachtrag nicht doppelt gezählt).
+**Wichtiger Vorbehalt:** Für Teil 2 liegen mir nur die Aggregatzahlen vor (3 bestätigt, 4 vermutet,
+38 nicht gefunden), **nicht die konkrete Firmen-/Namens-/E-Mail-Liste**. Von den oben genannten
+18 bestätigten und 11 vermuteten Kontakten sind daher **7 (die aus Teil 2) noch ohne Namen/E-Mail
+in diesem Dokument** — sie werden nachgetragen, sobald die Teil-2-Detailtabelle vorliegt.
+Konkret mit Name + E-Mail dokumentiert sind aktuell **15 bestätigte + 7 vermutete Kontakte**
+(aus Teil 1, Nachtrag, Teil 3, Teil 4 — siehe Tabellen unten).
 
 ## CRM-Datenkorrekturen (aus der Recherche, unabhängig vom Kontakt-Thema)
 
@@ -33,6 +40,8 @@ personalisierten CRM-Kontakt (Stand Recherche: 4. August 2026).
 - **Migros-Genossenschafts-Bund** — steht in der Firmenliste, ist aber kein klassisches EVU mit Endkunden-Netz (eher Eigenversorgung/Grossverbraucher). Bitte prüfen, ob der Datensatz zu Recht in „Akquise EVU" geführt wird.
 - **Forces Motrices de l'Avançon SA** — Betrieb seit 2024 an **Romande Energie** übertragen; ggf. direkt Romande Energie als Ansprechpartner führen.
 - **Genossenschaft Elektra Egnach** — 2025 fusioniert zu **„Energie Egnach"** (neuer Name im CRM nachtragen).
+- **St. Galler Stadtwerke** — steht **doppelt** in der Ausgangsliste (zwei Positionen, dieselbe Firma) — Duplikat im CRM bereinigen.
+- **Thurgie AG** und **EW Sirnach** — beide werden von **Thomas Etter** geführt, sind aber getrennte Firmen mit unterschiedlichen Domains (thurgie.ch vs. ewsirnach.ch) — E-Mail-Vermutung aus Teil 1 (thomas.etter@ewsirnach.ch) gilt **nicht** für Thurgie AG, dort separat verifizieren.
 
 ---
 
@@ -147,8 +156,6 @@ Adressen.
 
 ---
 
-## Teil 2 von 4 — *ausstehend*
-
 ## Teil 3 von 4 (45 Firmen)
 
 ### TL;DR
@@ -224,4 +231,79 @@ durchgängig nur generische Adressen.
 
 ---
 
-## Teil 4 von 4 — *ausstehend*
+## Teil 4 von 4 (43 Firmen — letzter Teil)
+
+### TL;DR
+Von den 43 Firmen in Teil 4 konnten 3 bestätigte Treffer gefunden werden (Rabiosa Energie,
+WERKE Rheineck, Trimmiser Industrielle Betriebe) sowie 1 vermuteter Treffer nach Muster (SEFA
+Aubonne). Bei den grossen kantonalen/städtischen EVU (SAK, ewb, St. Galler Stadtwerke, Romande
+Energie, SES, Viteos, Primeo Netz, Groupe E) sind CEO/Direktoren öffentlich bekannt, aber
+persönliche E-Mail-Adressen werden konsequent nicht publiziert — Aggregatoren bestätigen zwar
+ein Vorname.Nachname-Muster mit hoher Nutzungsrate, aber ohne einen auf der Firmenseite selbst
+sichtbaren Beleg wurde dies methodisch nicht als „bestätigt"/„vermutet" übernommen.
+
+### Ergebnistabelle (Import-Format)
+
+| Firma | Website | Vorname | Nachname | Funktion | Email | Status | Quelle (URL) |
+|---|---|---|---|---|---|---|---|
+| Primeo Netz AG | https://www.primeo-energie.ch | Herbert | Niklaus | Geschäftsführer | — | nicht gefunden — nur info@/service@primeo-energie.ch | https://www.primeo-energie.ch/de/geschaeftsleitung-0 |
+| Provedimaint Electric Val Müstair (PEM) | https://www.pemenergia.ch | — | — | — | — | nicht gefunden — nur info@pemvalmuestair.ch | https://www.pemenergia.ch/ueber-uns/team/ |
+| Rabiosa Energie | https://www.rabiosa-energie.ch | Otto | Vitalini | Geschäftsführer/Vorsitzender GL | o.vitalini@rabiosa-energie.ch | bestätigt | https://www.rabiosa-energie.ch/team.html |
+| Renergy GmbH | — | — | — | — | — | nicht gefunden — keine belastbare offizielle Website identifiziert | — |
+| Romande Energie SA | https://www.romande-energie.ch | François | Fellay | Directeur général | — | nicht gefunden — nur info@romande-energie.ch | https://investor.romande-energie.ch/about-us/management-committee/executive-board.aspx |
+| SAK - St.Gallisch-Appenzellische Kraftwerke AG | https://www.sak.ch | Martin | Simioni | CEO | — | nicht gefunden — nur info@/datenschutz@/medien@sak.ch; Aggregator nennt Muster f.lastname@sak.ch (100%), kein Beispiel auf sak.ch selbst | https://www.sak.ch/ueber-sak/unternehmen/geschaeftsleitung-und-verwaltungsrat |
+| SEDRE SA | — | — | — | — | — | nicht gefunden — keine ausreichenden öffentlichen Angaben gefunden | — |
+| SIE SA | — | — | — | — | — | nicht gefunden — keine ausreichenden öffentlichen Angaben gefunden | — |
+| SWL ENERGIE AG | https://www.swl.ch | Patrick | Hauser | Geschäftsführer | — | nicht gefunden — nur info@swl.ch | https://www.moneyhouse.ch/de/company/swl-energie-ag-11143676271 |
+| Service des Energies Yverdon-les-Bains (SEY) | — | — | — | — | — | nicht gefunden — keine ausreichenden öffentlichen Angaben gefunden | — |
+| Service électrique Develier | https://sed.develier.ch | Daniel | Rohrbach | Responsable du dicastère | — | nicht gefunden — Verwaltung durch Gemeindebüro, nur generisch | https://sed.develier.ch/sed/SED/A-propos/Votre-partenaire-local.html |
+| Services Industriels Lutry | https://www.lutry.ch | Yves | Leumann | (LinkedIn: Services Industriels de Lutry) | — | nicht gefunden — nur si@silutry.ch | https://www.lutry.ch/lutry-officiel/administration-communale/services-et-guichets-de-ladministration-communale/services-industriels |
+| Services Industriels de Nyon | https://www.nyon.ch | Laurent | Vukasovic | Directeur (seit 1.3.2024) | — | nicht gefunden — nur si@nyon.ch | https://www.nyon.ch/actualites/laurent-vukasovic-dirigera-les-services-industriels-de-nyon-15467 |
+| Services Industriels de la Ville de Delémont (SID) | https://sid.delemont.ch | Michel | Hirtzlin | Directeur | — | nicht gefunden — nur sid@delemont.ch | — |
+| Services Industriels de la commune de Fully | https://fully.ch | — | — | — | — | nicht gefunden — nur services.industriels@admin.fully.ch | https://fully.ch/fr/services-industriels |
+| Services Techniques de Tramelan (STT) | https://www.tramelan.ch | François | Comina | Directeur STT | — | nicht gefunden — nur Gemeindekontakt generisch | https://www.tramelan.ch/services/services-techniques/urbanisme-et-police-des-constructions/zps-e-lovieres.html |
+| Services Techniques de la Municipalité de St. Imier (STSI) | https://stsi.saint-imier.ch | — | — | — | — | nicht gefunden — nur servicestechniques@saint-imier.ch | https://www.saint-imier.ch/ |
+| Services industriels de Lausanne (SiL) | https://www.lausanne.ch | — | — | (städtische Direktion, kein einzelner „Direktor") | — | nicht gefunden — nur allgemeine Stadt-Lausanne-Kontakte | https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait/organigramme.html |
+| Sinergy Commerce SA | — | — | — | — | — | nicht gefunden — keine ausreichenden öffentlichen Angaben gefunden | — |
+| Società Elettrica Sopracenerina SA (SES) | https://www.ses.ch | Kenzo | Gobbi | (Management laut Moneyhouse) | — | nicht gefunden — nur allgemeine Kontaktseiten | https://www.moneyhouse.ch/de/company/societa-elettrica-sopracenerina-sa-ses-3123039371 |
+| Société Electrique de la Vallée de Joux SA (SEVJ) | https://www.sevj.ch | Marc | Montandon-la-Longe | Directeur (seit 1.5.2025) | — | nicht gefunden — nur solar@sevj.ch / president-ca@sevj.ch (Übergangszeit) | https://www.sevj.ch/2025/01/30/nom/ |
+| Société Electrique des Forces de l'Aubonne SA (SEFA) | https://www.sefa.ch | Laurent | Balsiger | Directeur | l.balsiger@sefa.ch | vermutet (Muster) — Muster f-initial.nachname@sefa.ch belegt durch m.barthelme@sefa.ch | https://www.sefa.ch/entreprise/direction |
+| Société de Gestion des Energies SA (SOGESA) | — | — | — | — | — | nicht gefunden — keine ausreichenden öffentlichen Angaben gefunden | — |
+| Société des Forces Electriques de La Goule SA | — | — | — | — | — | nicht gefunden — keine ausreichenden öffentlichen Angaben gefunden | — |
+| St. Galler Stadtwerke (2x in Ausgangsliste, Duplikat) | https://www.sgsw.ch | — | — | Geschäftsleitung (6 Mitglieder) | — | nicht gefunden — nur kundendienst@/kommunikation@sgsw.ch; Aggregator nennt Muster f.lastname@sgsw.ch (97.6%), kein Beispiel selbst | https://www.stadt.sg.ch/home/verwaltung-politik/direktionen/technische-betriebe/stgaller-stadtwerke.html |
+| Stadtverwaltung EW Werkbetriebe Steckborn | — | — | — | — | — | nicht gefunden | — |
+| Technische Betriebe Birmenstorf | — | — | — | — | — | nicht gefunden | — |
+| Technische Betriebe Kemmental | — | — | — | — | — | nicht gefunden | — |
+| Technische Betriebe Rorschach | — | — | — | — | — | nicht gefunden | — |
+| Technische Betriebe Vilters-Wangs | — | — | — | — | — | nicht gefunden | — |
+| Technische Betriebe Waldkirch | — | — | — | — | — | nicht gefunden | — |
+| Technische Gemeindebetriebe Berg (Gas/Strom/Wasser) | — | — | — | — | — | nicht gefunden | — |
+| Technische Werke Eschlikon | https://www.thurgie.ch | Manuel | Herzog | Leiter Technische Werke Eschlikon | — | nicht gefunden — JS-verschleiert (Thurgie-Partnerwerk) | https://www.thurgie.ch/gesch%C3%A4ftsleitung.html |
+| Technische Werke der Gemeinde Affeltrangen | — | — | — | — | — | nicht gefunden | — |
+| Thurgie AG | https://www.thurgie.ch | Thomas | Etter | Geschäftsführer | — | nicht gefunden — JS-verschleiert (dieselbe Person hat vermutete Adresse bei EW Sirnach, andere Domain, nicht übertragbar) | https://www.thurgie.ch/gesch%C3%A4ftsleitung.html |
+| Trimmiser Industrielle Betriebe (TIB) | https://www.trimmis.ch | Adrian | Ammann | Geschäftsführer TIB / Leiter Bauamt | adrian.ammann@trimmis.ch | bestätigt | https://www.trimmis.ch/gemeindebetriebe/trimmiser-industrielle-betriebe |
+| VOé distribution SA | https://www.voe.ch | Nicolas | Richard | Directeur général | — | nicht gefunden — keine personalisierte Adresse publiziert | https://www.moneyhouse.ch/de/company/voe-services-sa-5374625821 |
+| Verband VAS – Verband Aargauischer Stromversorger | — | — | — | — | — | nicht gefunden — keine offizielle Website mit Personendaten identifiziert | — |
+| Viteos SA | https://www.viteos.ch | — | — | (Verwaltungsrat: Jean-Daniel Jeanneret-Grosjean u. a.) | — | nicht gefunden — kein Directeur général mit Name identifiziert | https://www.moneyhouse.ch/de/company/viteos-sa-3166184801 |
+| WERKE Rheineck | https://www.rheineck.ch | Markus | Heil | Leiter Bau + Werke | markus.heil@rheineck.ch | bestätigt | https://www.rheineck.ch/personenregister/10527 |
+| energia alpina | https://www.energia-alpina.ch | Ciril | Deplazes | Geschäftsleiter | — | nicht gefunden — keine personalisierte Adresse publiziert | https://ch.linkedin.com/company/energia-alpina |
+| ewb (Energie Wasser Bern) | https://www.ewb.ch | Cornelia | Mellenberger | CEO | — | nicht gefunden — nur kundendienst@ewb.ch; Aggregator nennt Muster First.Last@ewb.ch (99.6%), kein Beispiel auf ewb.ch selbst | https://www.ewb.ch/ueber-uns/unternehmen/organisation-beteiligungen/verwaltungsrat.php |
+
+### Empfehlungen (Teil 4)
+1. Sofort ins CRM übernehmen: Rabiosa Energie (o.vitalini@rabiosa-energie.ch), WERKE Rheineck (markus.heil@rheineck.ch), Trimmiser Industrielle Betriebe (adrian.ammann@trimmis.ch).
+2. Muster-Adresse verifizieren: SEFA (l.balsiger@sefa.ch) — kurzer Anruf empfohlen.
+3. Grosse EVU (SAK, ewb, St. Galler Stadtwerke) telefonisch nachfassen: CEO/Direktor ist namentlich bekannt, Aggregatoren zeigen ein sehr konsistentes Muster (>97%) — ein Anruf beim Sekretariat mit Namensverweis dürfte die Adresse sofort bestätigen.
+4. Firmen ohne ausreichende Web-Präsenz (SEDRE, SIE, SEY, Sinergy Commerce, SOGESA, La Goule, Verband VAS, Renergy GmbH sowie mehrere kleine Thurgauer/St. Galler „Technische Betriebe") — über Zefix oder direkte Gemeindeanfrage klären, falls im CRM prioritär.
+
+### Caveats (Teil 4)
+- Bei SAK, ewb, St. Galler Stadtwerke bestätigen kommerzielle Aggregatoren (RocketReach, LeadIQ) ein Vorname.Nachname-Muster mit sehr hoher Nutzungsrate (97–100%), aber ohne konkretes Namensbeispiel auf der Firmenwebsite selbst — daher methodisch nicht als „vermutet" übernommen. Falls das Kriterium gelockert werden soll: martin.simioni@sak.ch, cornelia.mellenberger@ewb.ch als naheliegende Kandidaten.
+- Für ~10 kleine „Technische Betriebe"-Einträge sowie kaum online auffindbare Kleinfirmen wurde die Recherche aufgrund des durchgängig bestätigten Musters (keine Website mit personalisierten Kontakten) nicht mit derselben Tiefe durchgeführt.
+- Recherchestand: 4. August 2026.
+
+---
+
+## Offen: Teil 2 von 4 (45 Firmen) — Detail ausstehend
+
+Nur Aggregatzahlen bekannt (3 bestätigt, 4 vermutet, 38 nicht gefunden) — die Firmen-/Namens-/
+E-Mail-Tabelle für Teil 2 fehlt noch. Sobald sie vorliegt, wird sie hier eingefügt und die
+Zusammenfassung oben entsprechend um „(Detail ergänzt)" korrigiert.
