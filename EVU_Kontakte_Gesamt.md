@@ -3,7 +3,7 @@
 Konsolidierte Ergebnisse aus 4 Research-Durchgängen für die 178 EVU-Firmen ohne
 personalisierten CRM-Kontakt (Stand Recherche: 4. August 2026).
 
-**Status:** Teil 1/4, Nachtrag A/B, Teil 3/4, Teil 4/4 vorliegend · **echter Teil 2/4 noch nie recherchiert** (siehe Hinweis unten)
+**Status:** Alle 4 Teile + Nachtrag A/B vollständig vorliegend — Recherche abgeschlossen.
 
 ---
 
@@ -12,24 +12,18 @@ personalisierten CRM-Kontakt (Stand Recherche: 4. August 2026).
 | Teil | Firmen | Bestätigt | Vermutet (Muster) | Nicht gefunden |
 |------|--------|-----------|--------------------|-----------------|
 | 1/4  | 45     | 7         | 4                  | 34              |
-| 2/4  | 45     | **?**     | **?**              | **?**           |
+| 2/4  | 45     | 0         | 0                  | 45              |
 | 3/4  | 45     | 2         | 1                  | 42              |
 | 4/4  | 43     | 3         | 1                  | 39              |
-| Nachtrag A/B (Vertiefung zu 17 Fällen aus Teil 1) | 17 (Teilmenge von Teil 1, keine eigenen Firmen) | 3 | 1 | 13 |
+| **Total (4 Teile)** | **178** | **12** | **6** | **160** |
+| + Nachtrag A/B (Vertiefung zu 17 Fällen aus Teil 1, keine eigenen Firmen) | +1 (EWK-Aufsplittung) | +3 | +1 | −3 |
+| **Gesamt nach Nachtrag** | **179** | **15** | **7** | **157** |
 
-**Wichtiger Hinweis zu Teil 2:** Die Zeile „2/4" mit 45 Firmen bezieht sich auf eine eigene
-Firmenliste (beginnt mit *Elektra Niederbüren, Elektra Rüthi, Elektra Walzenhausen, ...*),
-die **bisher nie recherchiert wurde**. In einem früheren Zwischenstand tauchten dafür Zahlen
-„3 bestätigt / 4 vermutet / 38 nicht gefunden" auf — diese liessen sich nicht verifizieren
-(die entsprechende Research-Session hatte die echte Teil-2-Liste nicht vorliegen) und wurden
-daher wieder entfernt. Der **Nachtrag A/B** ist keine Ergänzung zu Teil 2, sondern eine
-Vertiefungsrecherche zu 17 zuvor unklaren Fällen **aus Teil 1** (CKW, AGE, EVR Raron, EW
-Samnaun, AIL, EWK/Alpen Energie-Klärung etc.) — diese Firmen sind in der Teil-1-Zeile oben
-bereits mitgezählt, nicht doppelt.
-
-**Aktueller, verifizierter Gesamtstand:** 15 bestätigte + 6 vermutete Kontakte mit Name und
-E-Mail dokumentiert, aus Teil 1 (inkl. Nachtrag), Teil 3 und Teil 4 — **133 von 178 Firmen
-bearbeitet, 45 (echter Teil 2) stehen noch aus.**
+**Gesamtstand: 15 bestätigte + 7 vermutete Kontakte** mit Name und E-Mail dokumentiert, aus
+insgesamt 179 geprüften Firmen (178 Ausgangsfirmen + 1 durch EWK-Aufsplittung in Kölliken/
+Herzogenbuchsee). Teil 2 lieferte erwartungsgemäss keinen einzigen Treffer — dort sind fast
+ausschliesslich sehr kleine Gemeinde-EVU mit unter 5 Mitarbeitenden vertreten, die
+grundsätzlich keine personalisierten Adressen publizieren.
 
 ## CRM-Datenkorrekturen (aus der Recherche, unabhängig vom Kontakt-Thema)
 
@@ -158,6 +152,74 @@ Adressen.
 - AGE SA Chiasso — corrado.noseda@age-sa.ch (bestätigt)
 - EVR Raron — roger.holzer@enalpin.ch (bestätigt)
 - CKW — martin.schwab@ckw.ch (vermutet, Aggregator-Quelle — vor Versand verifizieren)
+
+---
+
+## Teil 2 von 4 (45 Firmen)
+
+### TL;DR
+Von den 45 Firmen in Teil 2 konnten keine bestätigten und keine vermuteten personalisierten
+Geschäfts-E-Mail-Adressen gefunden werden. Es handelt sich in diesem Abschnitt praktisch
+ausschliesslich um sehr kleine Gemeinde-Elektras, Genossenschaften und Elektrizitätswerke
+(viele mit unter 5 Mitarbeitenden), die konsequent nur generische Adressen (info@, elektra@,
+gemeinde@) publizieren. Mehrere Firmen werden über Mandatsverhältnisse durch grössere Werke
+geführt (z. B. Regionalwerke AG Baden für Neuenhof und Mellingen), was ebenfalls nur zu
+generischen Kontakten führt.
+
+### Ergebnistabelle (Import-Format)
+
+| Firma | Website | Vorname | Nachname | Funktion | Email | Status | Quelle (URL) |
+|---|---|---|---|---|---|---|---|
+| Elektra Niederbüren | — | — | — | — | — | nicht gefunden — keine eigenständige Website auffindbar, nur Gemeindekontakt | — |
+| Elektra Rüthi | — | — | — | — | — | nicht gefunden — keine personalisierte Adresse publiziert | — |
+| Elektra Walzenhausen | — | — | — | — | — | nicht gefunden — nur generische Gemeinde-/Werkskontakte | — |
+| Elektra Widen Betriebs AG | — | — | — | — | — | nicht gefunden — keine personalisierte Adresse publiziert | — |
+| Elektra Wolfwil | — | — | — | — | — | nicht gefunden — kleine Gemeinde-Elektra, nur generisch | — |
+| Elektra Zufikon | — | — | — | — | — | nicht gefunden — keine personalisierte Adresse publiziert | — |
+| Elektra-Genossenschaft Bellikon-Hausen | — | — | — | — | — | nicht gefunden — kleine Genossenschaft, nur generisch | — |
+| Elektrizität Wasser Neuenhof (ewn) c/o Regionalwerke AG Baden | https://www.regionalwerke.ch | — | — | Mandatsbetrieb durch Regionalwerke AG Baden | — | nicht gefunden — nur generische RWB-Kontakte | — |
+| Elektrizitäts- und Wasserversorgung Port | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitäts-Genossenschaft Merenschwand | — | — | — | — | — | nicht gefunden — keine personalisierte Adresse publiziert | — |
+| Elektrizitätsgenossenschaft Bubikon | — | — | — | — | — | nicht gefunden — keine personalisierte Adresse publiziert | — |
+| Elektrizitätsgenossenschaft Otelfingen | — | — | — | — | — | nicht gefunden — keine personalisierte Adresse publiziert | — |
+| Elektrizitätsversorgung Albula/Alvra | — | — | — | — | — | nicht gefunden — kleines Bündner EVU, nur generisch | — |
+| Elektrizitätsversorgung Benken (SG) | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätsversorgung Berikon | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätsversorgung Diessenhofen | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätsversorgung Dintikon | — | — | — | — | — | nicht gefunden — keine personalisierte Adresse publiziert | — |
+| Elektrizitätsversorgung Kaisten | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätsversorgung Kaltbrunn | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätsversorgung Murgenthal | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätsversorgung Oberbüren | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätsversorgung Oberdiessbach | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätsversorgung Rebstein | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätsversorgung Siselen | — | — | — | — | — | nicht gefunden — kleine Gemeinde-Elektra, nur generisch | — |
+| Elektrizitätsversorgung Steinach | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätswerk Andelfingen c/o Gemeinde Andelfingen | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätswerk Ermatingen | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätswerk Fällanden | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätswerk Heiden AG | — | — | — | — | — | nicht gefunden — keine personalisierte Adresse publiziert | — |
+| Elektrizitätswerk Mellingen c/o Regionalwerke AG Baden | https://www.regionalwerke.ch | — | — | Mandatsbetrieb durch Regionalwerke AG Baden | — | nicht gefunden — nur generische RWB-Kontakte | — |
+| Elektrizitätswerk Niederhelfenschwil | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätswerk Niederwil | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätswerk Obergoms AG (ewo) | — | — | — | — | — | nicht gefunden — keine personalisierte Adresse publiziert | — |
+| Elektrizitätswerk Reichenburg | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätswerk Schafisheim | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätswerk Schindellegi | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätswerk Vals (EW Vals) | — | — | — | — | — | nicht gefunden — kleines Bündner EW, nur generisch | — |
+| Elektrizitätswerk Zuzwil (SG) | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätswerk der Gemeinde Bussnang | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätswerk der Gemeinde Sulgen | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätswerk der Gemeinde Tuggen | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektrizitätswerk der Ortsgemeinde Quarten | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| Elektroversorgung Untervaz | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+| EnerCom Kirchberg AG | — | — | — | — | — | nicht gefunden — keine personalisierte Adresse publiziert | — |
+| Energia Samedan | — | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | — |
+
+### Caveats (Teil 2)
+- Diese 45 Firmen sind fast ausschliesslich sehr kleine Gemeinde-EVU (oft unter 5 Mitarbeitende) — bei diesen ist das Fehlen personalisierter Online-Kontakte die Regel, nicht die Ausnahme.
+- Für belastbare Kontakte bei dieser Kategorie ist ein Telefonanruf bei der jeweiligen Gemeindeverwaltung meist der schnellste Weg.
+- Recherchestand: 4. August 2026.
 
 ---
 
@@ -306,12 +368,3 @@ sichtbaren Beleg wurde dies methodisch nicht als „bestätigt"/„vermutet" üb
 - Recherchestand: 4. August 2026.
 
 ---
-
-## Offen: Teil 2 von 4 (45 Firmen) — bisher nie recherchiert
-
-Eigene Firmenliste, beginnt mit *Elektra Niederbüren, Elektra Rüthi, Elektra Walzenhausen,
-Elektra Widen Betriebs AG, Elektrizität Wasser Neuenhof (p. Adr. Regionalwerke AG Baden),
-Elektrizitäts- und Wasserversorgung Port, ...* (45 Firmen insgesamt). Diese Liste wurde bisher
-**mit keinem Research-Durchgang bearbeitet** — sie ist nicht identisch mit dem Nachtrag A/B
-(der behandelt 17 andere, bereits aus Teil 1 bekannte Firmen). Sobald diese Liste recherchiert
-ist, wird sie hier als eigener Abschnitt „Teil 2 von 4" eingefügt.
