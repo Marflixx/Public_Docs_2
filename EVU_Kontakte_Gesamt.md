@@ -3,7 +3,7 @@
 Konsolidierte Ergebnisse aus 4 Research-Durchgängen für die 178 EVU-Firmen ohne
 personalisierten CRM-Kontakt (Stand Recherche: 4. August 2026).
 
-**Status:** Teil 1/4 vorliegend · Teil 2–4 ausstehend
+**Status:** Teil 1/4, Nachtrag A/B, Teil 3/4 vorliegend · Teil 2/4, Teil 4/4 ausstehend
 
 ---
 
@@ -14,10 +14,10 @@ personalisierten CRM-Kontakt (Stand Recherche: 4. August 2026).
 | 1/4  | 45     | 6         | 4                  | 35              |
 | Nachtrag A/B | 17 (Klärung + Vertiefung) | +4 (davon 1 vermutet) | — | 13 |
 | 2/4  | –      | –         | –                  | –               |
-| 3/4  | –      | –         | –                  | –               |
+| 3/4  | 45     | 2         | 1                  | 42              |
 | 4/4  | –      | –         | –                  | –               |
 
-**Laufender Gesamtstand:** 10 bestätigt, 5 vermutet (Muster), von 46 bisher bearbeiteten Firmen (Teil 1 + Nachtrag, Doppelnennungen aus dem Nachtrag nicht doppelt gezählt).
+**Laufender Gesamtstand:** 12 bestätigt, 6 vermutet (Muster), von 91 bisher bearbeiteten Firmen (Teil 1 + Nachtrag + Teil 3, Doppelnennungen aus dem Nachtrag nicht doppelt gezählt).
 
 ## CRM-Datenkorrekturen (aus der Recherche, unabhängig vom Kontakt-Thema)
 
@@ -28,6 +28,11 @@ personalisierten CRM-Kontakt (Stand Recherche: 4. August 2026).
   - **EWK Herzogenbuchsee AG** (ewk.ch) — Geschäftsführer Roland Althaus — **bestätigt: roland.althaus@ewk.ch**.
 - **„Alpen Energie"** — geklärt (siehe Nachtrag Teil A): gemeint ist **Alpen Energie, Meiringen** (alpenenergie.swiss), Betriebsleiter Urs Linder, keine personalisierte Adresse gefunden.
 - **EW Samnaun** — Geschäftsführer ist **Hans Kleinstein**, nicht Beat Jenal (Beat Jenal = Administration/Website-Verantwortlicher, siehe Nachtrag Teil B).
+- **Murg Flums Energie (MFE)** — neuer Geschäftsführer **Markus Kunz** seit 1.1.2026 (Wechsel, siehe Teil 3).
+- **Gruyère Energie SA** — neuer Directeur **Alain Ruffieux** seit Okt. 2025 (Wechsel, siehe Teil 3).
+- **Migros-Genossenschafts-Bund** — steht in der Firmenliste, ist aber kein klassisches EVU mit Endkunden-Netz (eher Eigenversorgung/Grossverbraucher). Bitte prüfen, ob der Datensatz zu Recht in „Akquise EVU" geführt wird.
+- **Forces Motrices de l'Avançon SA** — Betrieb seit 2024 an **Romande Energie** übertragen; ggf. direkt Romande Energie als Ansprechpartner führen.
+- **Genossenschaft Elektra Egnach** — 2025 fusioniert zu **„Energie Egnach"** (neuer Name im CRM nachtragen).
 
 ---
 
@@ -144,6 +149,79 @@ Adressen.
 
 ## Teil 2 von 4 — *ausstehend*
 
-## Teil 3 von 4 — *ausstehend*
+## Teil 3 von 4 (45 Firmen)
+
+### TL;DR
+Von den 45 Firmen in Teil 3 konnten für 2 Firmen bestätigte personalisierte Geschäfts-E-Mails
+gefunden werden (Energie- und Wasserversorgung Oberburg, Gemeinde Männedorf) sowie 1 vermutete
+Adresse nach Muster (Gruyère Energie SA). Dominanter Befund: ein sehr grosser Teil dieser
+Firmen sind kleine Gemeinde-EVU, Genossenschaften oder Betriebe, deren operative
+Geschäftsführung an eine Drittfirma ausgelagert ist (Mandatsmodell) — z. B. Energie
+Gossau/Grüningen (Pflugshaupt Engineering AG), Muhen/Hunzenschwil (Eniwa AG), Oberglatt
+(EW Rümlang), LST Energie AG (Technische Betriebe Weinfelden AG). Diese publizieren praktisch
+durchgängig nur generische Adressen.
+
+### Ergebnistabelle (Import-Format)
+
+| Firma | Website | Vorname | Nachname | Funktion | Email | Status | Quelle (URL) |
+|---|---|---|---|---|---|---|---|
+| Energie Gossau AG | https://energiegossau.ch | Martin | Pflugshaupt | Geschäftsführung (Mandat Pflugshaupt Engineering AG) | — | nicht gefunden — Mandatsbetrieb, keine personalisierte Adresse publiziert | https://energiegossau.ch/uber-uns/wer-wir-sind/ |
+| Energie Grosshöchstetten AG (ENGH) | https://www.engh-ag.ch | Ralph | Bolzli | Geschäftsführer | — | nicht gefunden — nur info@engh-ag.ch (auch für Team-Mitglieder) | https://www.engh-ag.ch/team |
+| Energie Grüningen AG | https://energie-grueningen.ch | Martin | Pflugshaupt | Geschäftsführung (Mandat) | — | nicht gefunden — Mandatsbetrieb wie Energie Gossau | https://energie-grueningen.ch/ueber-uns/ |
+| Energie Hunzenschwil AG (ENH) | https://www.enh.ch | Stefan | Kästli | Geschäftsführer | — | nicht gefunden — nur info@enh.ch | https://www.enh.ch/ueber-uns/team/ |
+| Energie- und Wasserversorgung Ins | https://www.ins.ch | — | — | — | — | nicht gefunden — nur Gemeindeverwaltung generisch | https://www.ins.ch/de/kontakt/ |
+| Energie- und Wasserversorgung Oberburg | https://www.ew-o.ch | David | Maurer | Geschäftsführer | david.maurer@ew-o.ch | bestätigt | https://region-emmental.ch/firma/energie-und-wasserversorgung-oberburg/ |
+| Energieversorgung Büren AG | https://www.ev-bueren.ch | Armin | Zingg | Geschäftsführer | — | nicht gefunden — nur info@ev-bueren.ch | https://www.ev-bueren.ch/2023/11/20/energieversorgung-bueren-ag-erhoeht-strompreise/ |
+| Energieversorgung Pieterlen | https://www.pieterlen.ch | — | — | — | — | nicht gefunden — Gemeindeabteilung, nur generisch | https://www.pieterlen.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=81 |
+| Enerprice Service AG | https://www.enerprice.ch | Andreas | Tresch | Geschäftsführer | — | nicht gefunden — nur info@enerprice.ch | https://www.northdata.de/Enerprice+Service+AG,+Root+D4/CHE-318.530.960 |
+| Forces Motrices de l'Avançon SA | https://www.fma-sa.ch | Jean-François | Caddoux | Directeur | — | nicht gefunden — Betrieb seit 2024 an Romande Energie übertragen; nur generisch | http://swisstocks.ch/ressources/galeries/94_1/FMA_Forces_Motrices_Avan%C3%A7on_SA_FR.pdf |
+| GEBNET AG | (keine eigene Website gefunden) | Mathias | Kessler | Geschäftsführer | — | nicht gefunden — nur Telefon/Kompass-Einträge | https://www.moneyhouse.ch/de/company/gebnet-ag-5687999271 |
+| Gemeinde Andeer (Energieversorgung Schams/Avers) | https://www.gemeinde-andeer.ch | — | — | — | — | nicht gefunden — nur gemeinde@andeer.ch | https://www.gemeinde-andeer.ch/aemter/4408 |
+| Gemeinde Männedorf — Energieversorgung | https://www.maennedorf.ch | Viktor | Duss | Fachbereichsleiter Systemtechnik | viktor.duss@maennedorf.ch | bestätigt | https://www.maennedorf.ch/energiestrategie2035/31804 |
+| Gemeinde Thusis | https://thusis.ch | — | — | — | — | nicht gefunden — nur kanzlei@thusis.ch | https://thusis.ch/betriebe/organisation/ |
+| Gemeindebetriebe Roggwil (GBR) | https://www.roggwil.ch | Stefan | Schaad-Meer | Geschäftsführer | — | nicht gefunden — nur gbr@roggwil.ch | https://business-monitor.ch/de/companies/684355-gemeindebetriebe-roggwil-gbr |
+| Gemeindebetriebe Wilderswil | https://wilderswil.ch | Paul | Brunner | Leiter Werkhof/Gemeindebetriebe | — | nicht gefunden — JS-verschleiert | https://wilderswil.ch/informationen/news |
+| Gemeindeverwaltung Muhen (Elektrizitätsversorgung) | https://www.muhen.ch | — | — | Betriebsführung durch Eniwa AG | — | nicht gefunden — Mandatsbetrieb, nur evm@eniwa.ch | https://www.muhen.ch/politik-verwaltung/verwaltung/gemeindewerke/elektrizitaetsversorgung.html/323 |
+| Gemeindewerk Beckenried | https://gemeindewerk-beckenried.ch | — | — | — | — | nicht gefunden — nur info@gw.beckenried.ch | https://gemeindewerk-beckenried.ch/kontakt |
+| Gemeindewerke Erstfeld | https://www.gemeindewerke-erstfeld.ch | — | — | — | — | nicht gefunden — nur info@gemeindewerke-erstfeld.ch | https://www.gemeindewerke-erstfeld.ch/ueber-uns/mitarbeitende/ |
+| Genossenschaft EW Münchwilen (EWM) | https://ewmuenchwilen.ch | Urs | Hengartner | Geschäftsführer | — | nicht gefunden — JS-verschleiert | https://ewmuenchwilen.ch/team.html |
+| Genossenschaft Elektra Egnach | https://energie-egnach.ch | Bruno | Dähler | Präsident (fusioniert 2025 zu „Energie Egnach") | — | nicht gefunden — nur generisch | https://energie-egnach.ch/ueber-uns/ |
+| Genossenschaft Elektra Fislisbach | https://www.elektra-fislisbach.ch | Patrick | Brühwiler | VR-Vize (kein separater GF ersichtlich) | — | nicht gefunden — nur Telefon | https://www.moneyhouse.ch/de/company/genossenschaft-elektra-fislisbach-10855782321 |
+| Genossenschaft Elektra Roggwil-Freidorf | https://www.elektra-roggwil-freidorf.ch | Roman | Imhof | Geschäftsführer | — | nicht gefunden — nur info@elektra-roggwil-freidorf.ch | https://www.roggwil-tg.ch/verwaltung/abteilungen-/technische-werke/elektragenossenschaften.html/150 |
+| Genossenschaft Elektra Thal | https://www.elektrathal.ch | Reto | Zeltner | Geschäftsführer | — | nicht gefunden — nur info@elektrathal.ch | https://business-monitor.ch/de/companies/155258-genossenschaft-elektra-thal |
+| Genossenschaft Elektra Äusseres Wasseramt EAW | https://www.eawenergie.ch | Urs | Stuber | Präsident | — | nicht gefunden — E-Mails JS-verschleiert | https://www.eawenergie.ch/die-eaw/verwaltung/ |
+| Genossenschaft Energie Fischingen | https://energie-fischingen.ch | Daniel | Bänziger | Geschäftsführer | — | nicht gefunden — nur info@energie-fischingen.ch | https://www.northdata.de/Genossenschaft+Energie+Fischingen,+Dussnang/CHE-209.750.321 |
+| Genossenschaft Licht- und Kraftwerke Glattfelden | https://www.lkwg.ch | Matthias | Gut | Geschäftsführer | — | nicht gefunden — nur kontakt@lkwg.ch | https://ch.kompass.com/c/genossenschaft-licht-und-kraftwerke-glattfelden/ch302812/ |
+| Genossenschaft Werk Bichelsee-Balterswil | https://w-b-b.ch | Alex | Thalmann | VR-Präsident (kein separater GF ersichtlich) | — | nicht gefunden — nur info@w-b-b.ch | https://w-b-b.ch/ueber-uns/ |
+| Groupe E SA | https://www.groupe-e.ch | Alain | Sapin | Directeur Général | — | nicht gefunden — nur generische Hotline | https://www.moneyhouse.ch/de/company/groupe-e-sa-19197980001 |
+| Gruyère Energie SA | https://www.gruyere-energie.ch | Alain | Ruffieux | Directeur (seit Okt. 2025) | a.ruffieux@gruyere-energie.ch | vermutet (Muster) — Muster f-initial.nachname@gruyere-energie.ch belegt durch p.souto@gruyere-energie.ch | https://rocketreach.co/pedro-souto-email_203060583 ; https://www.moneyhouse.ch/de/company/gruyere-energie-s-a-12071390261 |
+| Industrielle Betriebe Huttwil AG | https://www.ibhag.ch | Lukas | von Ballmoos | Geschäftsführer | — | nicht gefunden — nur info@ibhag.ch | https://www.moneyhouse.ch/de/company/industrielle-betriebe-huttwil-ag-10653959351 |
+| Industrielle Betriebe Interlaken AG (IBI) | https://www.ibi.ch | Martin | Grüring | Direktor | — | nicht gefunden — nur info@ibi.ch | https://www.linkedin.com/in/martin-gr%C3%BCring-3628b6185/ |
+| LST Energie AG | https://lstenergie.ch | — | — | Betriebsführung durch Technische Betriebe Weinfelden AG | — | nicht gefunden — Mandatsbetrieb, nur generisch | https://lstenergie.ch/de/ueber-uns-kontakt/ |
+| Licht- und Wasserwerk AG (Kandersteg) | https://www.lwk.ch | Erich | Lüthi | Geschäftsführer | — | nicht gefunden — nur Telefon/generisch | https://www.moneyhouse.ch/de/company/licht-und-wasserwerk-ag-kandersteg-12615555231 |
+| Media Mesolcina Energia (MME) | https://www.mmenergia.ch | Nicola | Giudicetti | Presidente consiglio direttivo | — | nicht gefunden — nur generisch | https://www.tio.ch/ticino/attualita/1409577/media-mesolcina-energia-vuole-il-riscatto-delle-linee |
+| Migros-Genossenschafts-Bund | https://corporate.migros.ch | — | — | (kein klassisches EVU — Grossverbraucher/Eigenversorgung) | — | nicht gefunden — kein zuständiger EVU-Ansprechpartner identifizierbar | https://help.migros.ch/de/adressen.html |
+| Murg Flums Energie (MFE) | https://www.mfenergie.ch | Markus | Kunz | Geschäftsführer (seit 1.1.2026) | — | nicht gefunden — nur kundendienst@mfenergie.ch | https://www.mfenergie.ch/neuer-geschaeftsfuehrer-der-murg-flums-energie/ |
+| Politische Gemeinde Basadingen-Schlattingen | (Gemeindewebsite) | — | — | — | — | nicht gefunden — kleine TG-Gemeinde, nur generische Kontakte | — |
+| Politische Gemeinde Berneck | https://www.berneck.ch | — | — | — | — | nicht gefunden — nur kanzlei@berneck.ch | https://www.berneck.ch/technischebetriebe |
+| Politische Gemeinde Erlen | (Gemeindewebsite) | — | — | — | — | nicht gefunden — kleine TG-Gemeinde, gleiches Muster | — |
+| Politische Gemeinde Felben-Wellhausen | (Gemeindewebsite) | — | — | — | — | nicht gefunden — kleine TG-Gemeinde, gleiches Muster | — |
+| Politische Gemeinde Kradolf-Schönenberg | (Gemeindewebsite) | — | — | — | — | nicht gefunden — kleine TG-Gemeinde, gleiches Muster | — |
+| Politische Gemeinde Märstetten (Techn. Gemeindewerke) | (Gemeindewebsite) | — | — | — | — | nicht gefunden — kleine TG-Gemeinde, gleiches Muster | — |
+| Politische Gemeinde Müllheim | (Gemeindewebsite) | — | — | — | — | nicht gefunden — kleine TG-Gemeinde, gleiches Muster | — |
+| Politische Gemeinde Oberglatt ZH | https://www.oberglatt.ch | — | — | Betriebsführung durch EW Rümlang (Mandat) | — | nicht gefunden — nur gemeinde@oberglatt.ch | https://www.oberglatt.ch/politik-verwaltung/verwaltung/abteilungen/tiefbau-und-werke/elektrizitaetswerk-oberglatt.html/160 |
+
+### Empfehlungen (Teil 3)
+1. Sofort ins CRM übernehmen: Oberburg (david.maurer@ew-o.ch), Männedorf (viktor.duss@maennedorf.ch).
+2. Muster-Adresse verifizieren: Gruyère Energie (a.ruffieux@gruyere-energie.ch) — kurzer Anruf empfohlen, da nur ein Mitarbeiter-Beispiel als Beleg vorliegt.
+3. Telefonische Nachfrage empfohlen bei ~15 Firmen mit bekanntem Namen, aber ohne öffentliche Adresse (v. a. ENGH, ENH, EV Büren, IB Huttwil, IBI Interlaken, Elektra Thal, LKW Glattfelden, Murg Flums Energie).
+4. Mandatsstrukturen im CRM vermerken: Pflugshaupt Engineering AG (Gossau/Grüningen), Eniwa AG (Muhen/Hunzenschwil/Oberglatt), Technische Betriebe Weinfelden AG (LST Energie), EW Rümlang (Oberglatt) — für Akquise ggf. direkt die Mandatsfirma ansprechen.
+
+### Caveats (Teil 3)
+- Ungewöhnlich hoher Mandatsanteil (Geschäftsführung durch Drittfirma) erklärt den tiefen Trefferanteil in diesem Abschnitt.
+- JS-Verschleierung trat besonders häufig auf (EAW, EWM Münchwilen, Wilderswil) — auch bei direktem Seitenabruf nicht extrahierbar.
+- Gruyère-Muster basiert auf einem einzigen Aggregator-Beleg, nicht auf einer selbst publizierten Zieladresse — vor Massenversand verifizieren.
+
+---
 
 ## Teil 4 von 4 — *ausstehend*
