@@ -3,7 +3,7 @@
 Konsolidierte Ergebnisse aus 4 Research-Durchgängen für die 178 EVU-Firmen ohne
 personalisierten CRM-Kontakt (Stand Recherche: 4. August 2026).
 
-**Status:** Teil 1/4, Nachtrag A/B, Teil 3/4, Teil 4/4 vorliegend · Teil 2/4 ausstehend (nur Aggregatzahlen bekannt, Detailtabelle fehlt noch)
+**Status:** Teil 1/4, Nachtrag A/B, Teil 3/4, Teil 4/4 vorliegend · **echter Teil 2/4 noch nie recherchiert** (siehe Hinweis unten)
 
 ---
 
@@ -12,19 +12,24 @@ personalisierten CRM-Kontakt (Stand Recherche: 4. August 2026).
 | Teil | Firmen | Bestätigt | Vermutet (Muster) | Nicht gefunden |
 |------|--------|-----------|--------------------|-----------------|
 | 1/4  | 45     | 7         | 4                  | 34              |
-| 2/4  | 45     | 3         | 4                  | 38              |
+| 2/4  | 45     | **?**     | **?**              | **?**           |
 | 3/4  | 45     | 2         | 1                  | 42              |
 | 4/4  | 43     | 3         | 1                  | 39              |
-| **Total (Rohzahlen aus den 4 Teilen)** | **178** | **15** | **10** | **153** |
-| + Nachtrag A/B (Klärungen/Vertiefung, siehe unten) | +1 (EWK-Aufsplittung) | +3 | +1 | −3 |
-| **Gesamt nach Nachtrag** | **179** | **18** | **11** | **150** |
+| Nachtrag A/B (Vertiefung zu 17 Fällen aus Teil 1) | 17 (Teilmenge von Teil 1, keine eigenen Firmen) | 3 | 1 | 13 |
 
-**Wichtiger Vorbehalt:** Für Teil 2 liegen mir nur die Aggregatzahlen vor (3 bestätigt, 4 vermutet,
-38 nicht gefunden), **nicht die konkrete Firmen-/Namens-/E-Mail-Liste**. Von den oben genannten
-18 bestätigten und 11 vermuteten Kontakten sind daher **7 (die aus Teil 2) noch ohne Namen/E-Mail
-in diesem Dokument** — sie werden nachgetragen, sobald die Teil-2-Detailtabelle vorliegt.
-Konkret mit Name + E-Mail dokumentiert sind aktuell **15 bestätigte + 7 vermutete Kontakte**
-(aus Teil 1, Nachtrag, Teil 3, Teil 4 — siehe Tabellen unten).
+**Wichtiger Hinweis zu Teil 2:** Die Zeile „2/4" mit 45 Firmen bezieht sich auf eine eigene
+Firmenliste (beginnt mit *Elektra Niederbüren, Elektra Rüthi, Elektra Walzenhausen, ...*),
+die **bisher nie recherchiert wurde**. In einem früheren Zwischenstand tauchten dafür Zahlen
+„3 bestätigt / 4 vermutet / 38 nicht gefunden" auf — diese liessen sich nicht verifizieren
+(die entsprechende Research-Session hatte die echte Teil-2-Liste nicht vorliegen) und wurden
+daher wieder entfernt. Der **Nachtrag A/B** ist keine Ergänzung zu Teil 2, sondern eine
+Vertiefungsrecherche zu 17 zuvor unklaren Fällen **aus Teil 1** (CKW, AGE, EVR Raron, EW
+Samnaun, AIL, EWK/Alpen Energie-Klärung etc.) — diese Firmen sind in der Teil-1-Zeile oben
+bereits mitgezählt, nicht doppelt.
+
+**Aktueller, verifizierter Gesamtstand:** 15 bestätigte + 6 vermutete Kontakte mit Name und
+E-Mail dokumentiert, aus Teil 1 (inkl. Nachtrag), Teil 3 und Teil 4 — **133 von 178 Firmen
+bearbeitet, 45 (echter Teil 2) stehen noch aus.**
 
 ## CRM-Datenkorrekturen (aus der Recherche, unabhängig vom Kontakt-Thema)
 
@@ -302,8 +307,11 @@ sichtbaren Beleg wurde dies methodisch nicht als „bestätigt"/„vermutet" üb
 
 ---
 
-## Offen: Teil 2 von 4 (45 Firmen) — Detail ausstehend
+## Offen: Teil 2 von 4 (45 Firmen) — bisher nie recherchiert
 
-Nur Aggregatzahlen bekannt (3 bestätigt, 4 vermutet, 38 nicht gefunden) — die Firmen-/Namens-/
-E-Mail-Tabelle für Teil 2 fehlt noch. Sobald sie vorliegt, wird sie hier eingefügt und die
-Zusammenfassung oben entsprechend um „(Detail ergänzt)" korrigiert.
+Eigene Firmenliste, beginnt mit *Elektra Niederbüren, Elektra Rüthi, Elektra Walzenhausen,
+Elektra Widen Betriebs AG, Elektrizität Wasser Neuenhof (p. Adr. Regionalwerke AG Baden),
+Elektrizitäts- und Wasserversorgung Port, ...* (45 Firmen insgesamt). Diese Liste wurde bisher
+**mit keinem Research-Durchgang bearbeitet** — sie ist nicht identisch mit dem Nachtrag A/B
+(der behandelt 17 andere, bereits aus Teil 1 bekannte Firmen). Sobald diese Liste recherchiert
+ist, wird sie hier als eigener Abschnitt „Teil 2 von 4" eingefügt.
