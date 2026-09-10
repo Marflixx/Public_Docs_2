@@ -343,6 +343,35 @@ Dieser Abschnitt enthält zwei neue Fragen, die im Tool noch nachgetragen werden
 - Die unter 9.1 genannten Korrekturen (v. a. Validierung F11, Verständlichkeitsprüfung F6) vor der Aktivierung ebenfalls einarbeiten.
 - Die in Abschnitt 8 aufgeworfene Frage zur Anonymität (E-Mail-Pflichtfeld auf der Start-Seite) vor dem Versand klären.
 
+## 10. Überarbeitung v2 nach Team-Feedback (Stand: 10. September 2026)
+
+Nach einem Review im Team wurde die Befragung deutlich fokussiert. Neues Ziel: herausfinden,
+an welchen **Angeboten** (Kurse, Spiele, Workshops etc.) Berufsschullehrpersonen am meisten
+interessiert sind, um sie bestmöglich zu unterstützen – nicht Umsetzungsdetails eines
+konkreten Kurses abfragen. Konsequent wird von «BNE-Angebot» statt «BNE-Kurs» gesprochen.
+
+**Struktur:** 14 statt 21 Kapitel (52 statt 77 Fragen). Entfernt wurden die Begriffserklärung
+Nachhaltigkeit/Kreislaufwirtschaft, die fünf detaillierten Inhaltsbewertungen (Energie, Food
+Waste, Klimawandel, Kreislaufwirtschaft Basis/Vertiefung), die Methoden-Rückfragen und der
+Weiterbildungsbedarf. Das Kapitel «Inhalte: Nachhaltigkeit» wurde behalten.
+
+**Neues Kapitel «Formate und Unterstützung»** direkt nach den Angaben zur Person: Der Einstieg
+fragt offen nach interessanten Formaten (Selbstlernkurs, Lernspiel, Workshop, Materialien,
+Exkursion, Projektwoche, Weiterbildung) und nach dem grössten Unterstützungsbedarf. Danach
+maximal drei Fragen zu konkreten Möglichkeiten: Lernspiel vs. digitaler Selbstlernkurs am
+Beispiel Kreislaufwirtschaft, Argumente für ein Lernspiel, sowie fest vorgegebene Inhalte vs.
+eigener Lernpfad der Lernenden.
+
+**Inhalte:** Statt «Was sollen die Inhalte sein?» wird gefragt «Was ist Ihnen an den Inhalten
+besonders wichtig?» (Branchen-/Alltagsbezug, Aktualität, wissenschaftliche Fundierung,
+Handlungsorientierung, Diskussionsraum, Verständlichkeit) plus Freitext.
+
+**Transfer:** Eigenes Kapitel «Transfer in den Arbeitsalltag» mit Wichtigkeit des Transfers in
+den Lehrbetrieb und der bevorzugten Form des Transfers.
+
+Technische Umsetzung: `update_lehrerbefragung_v2.py` und
+`docs/lehrerbefragung-v2-2026-09-10.md` im Repo `Eartheffect-AG/projectmanagement`.
+
 ## Quellen
 
 - SBFI / berufsbildung2030.ch — Allgemeinbildung 2030, neue Mindestvorschriften und Rahmenlehrplan in Kraft seit 1.1.2026 (svabu.ch/abu/revision_abu2030_nrlp).
